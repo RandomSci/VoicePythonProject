@@ -19,7 +19,13 @@ import tempfile
 from collections import defaultdict
 import re
 import unicodedata
+from huggingface_hub import login
 
+HF_TOKEN = os.getenv('HF_TOKEN')
+if HF_TOKEN:
+    login(token=HF_TOKEN)
+else:
+    print("⚠️ HF_TOKEN not set. Some models may not load.")
 # Optional imports for pronunciation training
 try:
     import librosa
@@ -174,9 +180,9 @@ SPEAKER_SIMILARITY_THRESHOLD = 0.55  # Lowered from 0.75 for less strict matchin
 MIN_SPEECH_DURATION = 0.5
 
 # Model paths
-FILIPINO_MODEL_PATH = r"C:\Users\Administrator\AppData\Local\Programs\Python\Python313\vosk-model-tl-ph-generic-0.6"
-ENGLISH_MODEL_PATH = r"C:\Users\HP\AppData\Local\Programs\Python\Python313\vosk-model-en-us-0.22"
-DATASET_PATH = r"C:\Users\HP\AppData\Local\Programs\Python\Python312\dataset"
+FILIPINO_MODEL_PATH = r"/home/zkllmt/Documents/AI Section/Repositories/vosk-model-tl-ph-generic-0.6"
+ENGLISH_MODEL_PATH = r"/home/zkllmt/Documents/AI Section/Repositories/vosk-model-en-us-0.22"
+DATASET_PATH = r"/home/zkllmt/Documents/AI Section/Repositories/VoicePythonProject/dataset"
 TEACHER_VOICE_DIR = os.path.join(DATASET_PATH, "teacher_voice")
 AUDIO_DIR = os.path.join(DATASET_PATH, "audio")
 TRANSCRIPTIONS_DIR = os.path.join(DATASET_PATH, "transcripts")
