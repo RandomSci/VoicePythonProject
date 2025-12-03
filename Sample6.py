@@ -174,7 +174,7 @@ SPEAKER_SIMILARITY_THRESHOLD = 0.55  # Lowered from 0.75 for less strict matchin
 MIN_SPEECH_DURATION = 0.5
 
 # Model paths
-FILIPINO_MODEL_PATH = r"C:\Users\HP\AppData\Local\Programs\Python\Python313\vosk-model-tl-ph-generic-0.6"
+FILIPINO_MODEL_PATH = r"C:\Users\Administrator\AppData\Local\Programs\Python\Python313\vosk-model-tl-ph-generic-0.6"
 ENGLISH_MODEL_PATH = r"C:\Users\HP\AppData\Local\Programs\Python\Python313\vosk-model-en-us-0.22"
 DATASET_PATH = r"C:\Users\HP\AppData\Local\Programs\Python\Python312\dataset"
 TEACHER_VOICE_DIR = os.path.join(DATASET_PATH, "teacher_voice")
