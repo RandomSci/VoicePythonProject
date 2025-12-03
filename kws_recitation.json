@@ -1,0 +1,334 @@
+[
+  {
+    "keyword": "abellera",
+    "boost": 40.0
+  },
+  {
+    "keyword": "alba",
+    "boost": 40.0
+  },
+  {
+    "keyword": "belleza",
+    "boost": 40.0
+  },
+  {
+    "keyword": "bindoy",
+    "boost": 40.0
+  },
+  {
+    "keyword": "borja",
+    "boost": 40.0
+  },
+  {
+    "keyword": "cipriano",
+    "boost": 40.0
+  },
+  {
+    "keyword": "cruz",
+    "boost": 40.0
+  },
+  {
+    "keyword": "dasco",
+    "boost": 40.0
+  },
+  {
+    "keyword": "dela cruz",
+    "boost": 40.0
+  },
+  {
+    "keyword": "de la cruz",
+    "boost": 35.0
+  },
+  {
+    "keyword": "dela cruz",
+    "boost": 35.0
+  },
+  {
+    "keyword": "cruz",
+    "boost": 35.0
+  },
+  {
+    "keyword": "dela pena",
+    "boost": 40.0
+  },
+  {
+    "keyword": "de la pena",
+    "boost": 35.0
+  },
+  {
+    "keyword": "dela pena",
+    "boost": 35.0
+  },
+  {
+    "keyword": "pena",
+    "boost": 35.0
+  },
+  {
+    "keyword": "dela rama",
+    "boost": 40.0
+  },
+  {
+    "keyword": "de la rama",
+    "boost": 35.0
+  },
+  {
+    "keyword": "dela rama",
+    "boost": 35.0
+  },
+  {
+    "keyword": "rama",
+    "boost": 35.0
+  },
+  {
+    "keyword": "deris",
+    "boost": 40.0
+  },
+  {
+    "keyword": "dublois",
+    "boost": 40.0
+  },
+  {
+    "keyword": "espiritu",
+    "boost": 40.0
+  },
+  {
+    "keyword": "fatalla",
+    "boost": 40.0
+  },
+  {
+    "keyword": "franco",
+    "boost": 40.0
+  },
+  {
+    "keyword": "garcia",
+    "boost": 40.0
+  },
+  {
+    "keyword": "guevarra",
+    "boost": 40.0
+  },
+  {
+    "keyword": "ison",
+    "boost": 40.0
+  },
+  {
+    "keyword": "jonsay",
+    "boost": 40.0
+  },
+  {
+    "keyword": "lagdan",
+    "boost": 40.0
+  },
+  {
+    "keyword": "llamas",
+    "boost": 40.0
+  },
+  {
+    "keyword": "loyola",
+    "boost": 40.0
+  },
+  {
+    "keyword": "marquez",
+    "boost": 40.0
+  },
+  {
+    "keyword": "martinez",
+    "boost": 40.0
+  },
+  {
+    "keyword": "mijares",
+    "boost": 40.0
+  },
+  {
+    "keyword": "narag",
+    "boost": 40.0
+  },
+  {
+    "keyword": "negru",
+    "boost": 40.0
+  },
+  {
+    "keyword": "nieva",
+    "boost": 40.0
+  },
+  {
+    "keyword": "olid",
+    "boost": 40.0
+  },
+  {
+    "keyword": "ordonez",
+    "boost": 40.0
+  },
+  {
+    "keyword": "pacheco",
+    "boost": 40.0
+  },
+  {
+    "keyword": "paculan",
+    "boost": 40.0
+  },
+  {
+    "keyword": "pandi",
+    "boost": 40.0
+  },
+  {
+    "keyword": "paz",
+    "boost": 40.0
+  },
+  {
+    "keyword": "pena",
+    "boost": 40.0
+  },
+  {
+    "keyword": "requino",
+    "boost": 40.0
+  },
+  {
+    "keyword": "sajo",
+    "boost": 40.0
+  },
+  {
+    "keyword": "samonte",
+    "boost": 40.0
+  },
+  {
+    "keyword": "saribay",
+    "boost": 40.0
+  },
+  {
+    "keyword": "serviano",
+    "boost": 40.0
+  },
+  {
+    "keyword": "silvestre",
+    "boost": 40.0
+  },
+  {
+    "keyword": "surell",
+    "boost": 40.0
+  },
+  {
+    "keyword": "torres",
+    "boost": 40.0
+  },
+  {
+    "keyword": "loyola",
+    "boost": 45.0
+  },
+  {
+    "keyword": "loyola",
+    "boost": 45.0
+  },
+  {
+    "keyword": "belleza",
+    "boost": 45.0
+  },
+  {
+    "keyword": "bellesa",
+    "boost": 45.0
+  },
+  {
+    "keyword": "beleza",
+    "boost": 45.0
+  },
+  {
+    "keyword": "jonsay",
+    "boost": 45.0
+  },
+  {
+    "keyword": "honsay",
+    "boost": 45.0
+  },
+  {
+    "keyword": "konsay",
+    "boost": 45.0
+  },
+  {
+    "keyword": "requino",
+    "boost": 45.0
+  },
+  {
+    "keyword": "rekino",
+    "boost": 45.0
+  },
+  {
+    "keyword": "requiño",
+    "boost": 45.0
+  },
+  {
+    "keyword": "blanco",
+    "boost": 45.0
+  },
+  {
+    "keyword": "blanko",
+    "boost": 45.0
+  },
+  {
+    "keyword": "ocol",
+    "boost": 45.0
+  },
+  {
+    "keyword": "okol",
+    "boost": 45.0
+  },
+  {
+    "keyword": "blanco jerard",
+    "boost": 50.0
+  },
+  {
+    "keyword": "jerard blanco",
+    "boost": 50.0
+  },
+  {
+    "keyword": "blanco, jerard",
+    "boost": 50.0
+  },
+  {
+    "keyword": "blanco keon",
+    "boost": 50.0
+  },
+  {
+    "keyword": "keon blanco",
+    "boost": 50.0
+  },
+  {
+    "keyword": "blanco, keon",
+    "boost": 50.0
+  },
+  {
+    "keyword": "blanco raizjhea",
+    "boost": 50.0
+  },
+  {
+    "keyword": "raizjhea blanco",
+    "boost": 50.0
+  },
+  {
+    "keyword": "blanco, raizjhea",
+    "boost": 50.0
+  },
+  {
+    "keyword": "ocol sean",
+    "boost": 50.0
+  },
+  {
+    "keyword": "sean ocol",
+    "boost": 50.0
+  },
+  {
+    "keyword": "ocol, sean",
+    "boost": 50.0
+  },
+  {
+    "keyword": "ocol xyzea",
+    "boost": 50.0
+  },
+  {
+    "keyword": "xyzea ocol",
+    "boost": 50.0
+  },
+  {
+    "keyword": "ocol, xyzea",
+    "boost": 50.0
+  }
+]

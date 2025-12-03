@@ -1,0 +1,13 @@
+vosk
+pyaudio
+rapidfuzz
+openpyxl
+pyannote.audio
+torch
+torchaudio
+speechbrain
+pyinstaller
+pyrnnoise
+librosa
+scikit-learn
+numpy

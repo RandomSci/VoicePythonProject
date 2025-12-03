@@ -1,0 +1,1387 @@
+2025-09-20 18:00:15 | Pandi +5 | Total: 20
+
+=== Session Ended: 2025-09-20 18:01:32 ===
+Pandi: 5+5 | Last Updated: 2025-09-20 18:00:15 | Total: 20
+Martinez: 5 | Last Updated: 2025-09-20 17:08:09 | Total: 45
+Okol: 5 | Last Updated: 2025-09-20 16:43:07 | Total: 36
+Guevarra: 5 | Last Updated: 2025-09-20 17:00:40 | Total: 30
+Maria: 5 | Last Updated: 2025-09-20 17:00:16 | Total: 35
+2025-09-20 18:09:59 | Pandi +5 | Total: 25
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 18:10:08
+Total Attempts: 8
+Successful Matches: 1
+Accuracy: 12.5%
+Average Recognition Speed: 0.47s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 18:48:38
+Total Attempts: 4
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.15s
+
+Recent recognitions (most recent first):
+18:48:35 | NO MATCH (best_score: 45.0) | text: 'and they five' | 0.15s
+18:48:35 | text: 'and they five' | time: 0.15s
+18:48:29 | FAILED - Missing: points | 0.12s
+18:48:29 | text: 'pandi fight' | time: 0.12s
+18:48:23 | FAILED - Missing: points | 0.12s
+18:48:23 | text: 'and they fight' | time: 0.12s
+18:48:14 | FAILED - Missing: points | 0.21s
+18:48:14 | text: 'bonding fight' | time: 0.21s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 18:49:46
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.00s
+=====================================
+
+2025-09-20 18:53:06 | Pandi +5 | Total: 30 | MatchScore: 60% | Speed: 0.14s
+2025-09-20 18:53:17 | Pandi +5 | Total: 35 | MatchScore: 67% | Speed: 0.13s
+2025-09-20 18:53:31 | Martinez +5 | Total: 50 | MatchScore: 100% | Speed: 0.16s
+2025-09-20 18:53:39 | Guevarra +5 | Total: 35 | MatchScore: 100% | Speed: 0.16s
+2025-09-20 18:54:06 | Guevarra +5 | Total: 40 | MatchScore: 100% | Speed: 0.13s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 18:54:36
+Total Attempts: 11
+Successful Matches: 5
+Accuracy: 45.5%
+Average Recognition Speed: 0.15s
+
+Recent recognitions (most recent first):
+2025-09-20 18:54:06 | Guevarra +5 | Total: 40 | MatchScore: 100% | Speed: 0.13s
+18:54:06 | text: 'guevarra five' | time: 0.13s
+18:54:02 | FAILED - Missing: points | 0.15s
+18:54:02 | text: 'gipangaliya fight' | time: 0.15s
+18:53:58 | FAILED - Missing: points | 0.11s
+18:53:58 | text: 'gidala fight' | time: 0.11s
+18:53:55 | FAILED - Missing: points | 0.13s
+18:53:55 | text: 'giporlos fight' | time: 0.13s
+2025-09-20 18:53:39 | Guevarra +5 | Total: 35 | MatchScore: 100% | Speed: 0.16s
+18:53:39 | text: 'guevarra five' | time: 0.16s
+2025-09-20 18:53:31 | Martinez +5 | Total: 50 | MatchScore: 100% | Speed: 0.16s
+18:53:31 | text: 'martinez five' | time: 0.16s
+18:53:27 | FAILED - Missing: points | 0.15s
+18:53:27 | text: 'martinez tayo' | time: 0.15s
+18:53:22 | FAILED - Missing: points | 0.20s
+18:53:22 | text: 'fandi <unk>' | time: 0.20s
+2025-09-20 18:53:17 | Pandi +5 | Total: 35 | MatchScore: 67% | Speed: 0.13s
+18:53:17 | text: 'candice five' | time: 0.13s
+18:53:14 | FAILED - Missing: points | 0.17s
+18:53:14 | text: 'pan de fight' | time: 0.17s
+2025-09-20 18:53:06 | Pandi +5 | Total: 30 | MatchScore: 60% | Speed: 0.14s
+18:53:06 | text: 'candy five' | time: 0.14s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 19:11:20
+Total Attempts: 5
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.12s
+
+Recent recognitions (most recent first):
+19:11:16 | ERROR: RecitationSystem.process_speech_text() takes 2 positional arguments but 3 were given
+19:11:16 | text: 'guevarra five' | time: 0.11s
+19:11:13 | ERROR: RecitationSystem.process_speech_text() takes 2 positional arguments but 3 were given
+19:11:13 | text: 'guevarra fight' | time: 0.10s
+19:11:10 | ERROR: RecitationSystem.process_speech_text() takes 2 positional arguments but 3 were given
+19:11:10 | text: 'giraray five' | time: 0.12s
+19:11:07 | ERROR: RecitationSystem.process_speech_text() takes 2 positional arguments but 3 were given
+19:11:07 | text: 'guevarra fight' | time: 0.15s
+19:11:01 | ERROR: RecitationSystem.process_speech_text() takes 2 positional arguments but 3 were given
+19:11:01 | text: 'development' | time: 0.11s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 19:27:58
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.00s
+=====================================
+
+2025-09-20 20:05:29 | Guevarra +5 | Total: 45 | StandardScore: 100% | Speed: 0.12s
+2025-09-20 20:05:37 | Pandi +5 | Total: 40 | StandardScore: 100% | Speed: 0.13s
+2025-09-20 20:05:56 | Maria +5 | Total: 40 | StandardScore: 91% | Speed: 0.11s
+2025-09-20 20:05:59 | Okol +5 | Total: 41 | StandardScore: 75% | Speed: 0.11s
+2025-09-20 20:06:07 | Martinez +5 | Total: 55 | StandardScore: 100% | Speed: 0.14s
+
+========== SESSION END: 2025-09-20 20:06:46 ==========
+Total Attempts: 8
+Successful Matches: 5
+Accuracy: 62.5%
+Average Speed: 0.12s
+2025-09-20 20:12:02 | Guevarra +5 | Total: 50 | StandardScore: 100% | Speed: 0.11s
+2025-09-20 20:12:06 | Pandi +5 | Total: 45 | StandardScore: 100% | Speed: 0.10s
+2025-09-20 20:12:16 | Maria +5 | Total: 45 | StandardScore: 91% | Speed: 0.11s
+2025-09-20 20:12:23 | Okol +5 | Total: 46 | StandardScore: 75% | Speed: 0.11s
+2025-09-20 20:12:31 | Martinez +5 | Total: 60 | StandardScore: 100% | Speed: 0.15s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 20:12:36
+Total Attempts: 10
+Successful Matches: 5
+Accuracy: 50.0%
+Average Recognition Speed: 0.12s
+
+Recent recognitions (most recent first):
+2025-09-20 20:12:31 | Martinez +5 | Total: 60 | StandardScore: 100% | Speed: 0.15s
+2025-09-20 20:12:23 | Okol +5 | Total: 46 | StandardScore: 75% | Speed: 0.11s
+2025-09-20 20:12:16 | Maria +5 | Total: 45 | StandardScore: 91% | Speed: 0.11s
+2025-09-20 20:12:06 | Pandi +5 | Total: 45 | StandardScore: 100% | Speed: 0.10s
+2025-09-20 20:12:02 | Guevarra +5 | Total: 50 | StandardScore: 100% | Speed: 0.11s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 20:30:37
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.00s
+=====================================
+
+2025-09-20 20:37:01 | Martinez +5 | Total: 65 | StandardScore: 100% | Speed: 0.16s
+2025-09-20 20:37:09 | Okol +5 | Total: 51 | StandardScore: 89% | Speed: 0.10s
+2025-09-20 20:37:12 | Pandi +5 | Total: 50 | StandardScore: 100% | Speed: 0.12s
+2025-09-20 20:37:16 | Maria +5 | Total: 50 | StandardScore: 91% | Speed: 0.11s
+2025-09-20 20:37:19 | Martinez +5 | Total: 70 | StandardScore: 100% | Speed: 0.15s
+2025-09-20 20:37:22 | Guevarra +5 | Total: 55 | StandardScore: 53% | Speed: 0.13s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 20:37:31
+Total Attempts: 7
+Successful Matches: 6
+Accuracy: 85.7%
+Average Recognition Speed: 0.13s
+
+Recent recognitions (most recent first):
+2025-09-20 20:37:22 | Guevarra +5 | Total: 55 | StandardScore: 53% | Speed: 0.13s
+2025-09-20 20:37:19 | Martinez +5 | Total: 70 | StandardScore: 100% | Speed: 0.15s
+2025-09-20 20:37:16 | Maria +5 | Total: 50 | StandardScore: 91% | Speed: 0.11s
+2025-09-20 20:37:12 | Pandi +5 | Total: 50 | StandardScore: 100% | Speed: 0.12s
+2025-09-20 20:37:09 | Okol +5 | Total: 51 | StandardScore: 89% | Speed: 0.10s
+2025-09-20 20:37:01 | Martinez +5 | Total: 65 | StandardScore: 100% | Speed: 0.16s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-09-20 20:38:24
+Total Attempts: 2
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.09s
+=====================================
+
+
+========== SESSION END: 2025-09-20 21:07:58 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-09-20 21:19:45 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-09-20 21:29:36 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-09-20 21:29:36 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-09-20 21:36:12 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+2025-09-20 21:37:47 | Guevarra +5 (teacher voice) | Total: 60 | StandardScore: 100% | Speed: 0.41s
+2025-09-20 21:38:14 | Guevarra +5 (teacher voice) | Total: 65 | StandardScore: 57% | Speed: 0.38s
+
+========== SESSION END: 2025-09-20 21:38:23 ==========
+Total Attempts: 7
+Successful Matches: 2
+Accuracy: 28.6%
+Average Speed: 0.39s
+Speaker Recognition: Active
+2025-09-20 21:48:15 | Pandi +5 (teacher voice) | Total: 55 | StandardScore: 100% | Speed: 0.35s
+2025-09-20 21:48:31 | Guevarra +5 (teacher voice) | Total: 70 | StandardScore: 100% | Speed: 0.42s
+
+========== SESSION END: 2025-09-20 21:49:17 ==========
+Total Attempts: 2
+Successful Matches: 2
+Accuracy: 100.0%
+Average Speed: 0.27s
+Speaker Recognition: Active
+2025-09-23 13:21:16 | Guevarra +5 (teacher voice) | Total: 75 | StandardScore: 100% | Speed: 0.58s
+2025-09-23 13:21:38 | Okol +5 (teacher voice) | Total: 56 | StandardScore: 67% | Speed: 0.54s
+2025-09-23 13:21:42 | Maria +5 (teacher voice) | Total: 55 | StandardScore: 91% | Speed: 0.47s
+2025-09-23 13:21:46 | Maria +5 (teacher voice) | Total: 60 | StandardScore: 80% | Speed: 0.59s
+2025-09-23 13:21:52 | Pandi +5 (teacher voice) | Total: 60 | StandardScore: 67% | Speed: 0.58s
+
+========== SESSION END: 2025-09-23 13:21:58 ==========
+Total Attempts: 8
+Successful Matches: 5
+Accuracy: 62.5%
+Average Speed: 0.56s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-26 15:08:39 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-26 15:20:11 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+2025-09-26 15:42:42 | Abellera +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.18s
+2025-09-26 15:42:49 | Alba +5 (teacher voice) | Total: 5 | StandardScore: 89% | Speed: 0.16s
+2025-09-26 15:43:04 | Bindoy +5 (teacher voice) | Total: 5 | StandardScore: 71% | Speed: 0.17s
+2025-09-26 15:43:14 | Borja +5 (teacher voice) | Total: 5 | StandardScore: 67% | Speed: 0.16s
+2025-09-26 15:43:39 | Dasco +5 (teacher voice) | Total: 5 | StandardScore: 67% | Speed: 0.13s
+2025-09-26 15:43:56 | Dela Rama +5 (teacher voice) | Total: 5 | StandardScore: 89% | Speed: 0.19s
+2025-09-26 15:44:30 | Franco +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.17s
+2025-09-26 15:44:41 | Garcia +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.16s
+2025-09-26 15:44:44 | Guevarra +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.20s
+2025-09-26 15:44:48 | Ison +5 (teacher voice) | Total: 5 | StandardScore: 89% | Speed: 0.18s
+2025-09-26 15:45:00 | Lagdan +5 (teacher voice) | Total: 5 | StandardScore: 92% | Speed: 0.17s
+2025-09-26 15:45:04 | Llamas +5 (teacher voice) | Total: 5 | StandardScore: 73% | Speed: 0.16s
+2025-09-26 15:45:08 | Loyola +5 (teacher voice) | Total: 5 | StandardScore: 60% | Speed: 0.16s
+2025-09-26 15:45:15 | Martinez +5 (teacher voice) | Total: 5 | StandardScore: 86% | Speed: 0.16s
+2025-09-26 15:45:26 | Mijares +5 (teacher voice) | Total: 5 | StandardScore: 62% | Speed: 0.19s
+2025-09-26 15:46:30 | Pandi +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.17s
+
+========== SESSION END: 2025-09-26 15:47:00 ==========
+Total Attempts: 67
+Successful Matches: 16
+Accuracy: 23.9%
+Average Speed: 0.17s
+Speaker Recognition: Active
+2025-09-26 16:12:16 | Ison +5 (teacher voice) | Total: 10 | StandardScore: 86% | Speed: 0.17s
+2025-09-26 16:12:20 | Ison +5 (teacher voice) | Total: 15 | StandardScore: 86% | Speed: 0.16s
+2025-09-26 16:12:25 | Borja +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.16s
+2025-09-26 16:12:30 | Blanco, Jerard +5 (teacher voice) | Total: 5 | StandardScore: 91% | Speed: 0.20s
+2025-09-26 16:12:35 | Ison +5 (teacher voice) | Total: 20 | StandardScore: 80% | Speed: 0.17s
+2025-09-26 16:12:49 | Dasco +5 (teacher voice) | Total: 10 | StandardScore: 80% | Speed: 0.13s
+2025-09-26 16:12:53 | Peña +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.15s
+2025-09-26 16:12:57 | Peña +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.14s
+2025-09-26 16:13:01 | Dela Rama +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.13s
+2025-09-26 16:13:08 | Dublois +5 (teacher voice) | Total: 5 | StandardScore: 80% | Speed: 0.13s
+2025-09-26 16:13:11 | Deris +5 (teacher voice) | Total: 5 | StandardScore: 91% | Speed: 0.13s
+2025-09-26 16:13:15 | Espiritu +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.14s
+2025-09-26 16:13:18 | Fatalla +5 (teacher voice) | Total: 5 | StandardScore: 92% | Speed: 0.13s
+2025-09-26 16:13:25 | Garcia +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.13s
+2025-09-26 16:13:28 | Guevarra +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.15s
+2025-09-26 16:13:32 | Ison +5 (teacher voice) | Total: 25 | StandardScore: 100% | Speed: 0.16s
+2025-09-26 16:13:49 | Llamas +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.12s
+2025-09-26 16:13:52 | Lagdan +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.13s
+2025-09-26 16:13:56 | Fatalla +5 (teacher voice) | Total: 10 | StandardScore: 86% | Speed: 0.14s
+2025-09-26 16:14:00 | Fatalla +5 (teacher voice) | Total: 15 | StandardScore: 86% | Speed: 0.13s
+2025-09-26 16:14:06 | Martinez +5 (teacher voice) | Total: 10 | StandardScore: 89% | Speed: 0.16s
+2025-09-26 16:14:13 | Ocol, Sean +5 (teacher voice) | Total: 5 | StandardScore: 100% | Speed: 0.15s
+2025-09-26 16:14:18 | Samonte +5 (teacher voice) | Total: 5 | StandardScore: 80% | Speed: 0.18s
+2025-09-26 16:15:54 | Guevarra +5 (teacher voice) | Total: 15 | StandardScore: 80% | Speed: 0.12s
+
+========== SESSION END: 2025-09-26 16:17:56 ==========
+Total Attempts: 34
+Successful Matches: 24
+Accuracy: 70.6%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-26 16:21:30 | Alba +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.16s
+
+========== SESSION END: 2025-09-26 16:21:59 ==========
+Total Attempts: 4
+Successful Matches: 1
+Accuracy: 25.0%
+Average Speed: 0.14s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-26 16:29:43 ==========
+Total Attempts: 3
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.11s
+Speaker Recognition: Active
+2025-09-26 16:31:34 | Alba +5 (teacher voice) | Total: 15 | StandardScore: 100% | Speed: 0.11s
+
+========== SESSION END: 2025-09-26 16:32:33 ==========
+Total Attempts: 6
+Successful Matches: 1
+Accuracy: 16.7%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-26 16:33:06 | Ison +5 (teacher voice) | Total: 30 | StandardScore: 86% | Speed: 0.18s
+2025-09-26 16:33:25 | Bindoy +5 (teacher voice) | Total: 10 | StandardScore: 100% | Speed: 0.13s
+
+========== SESSION END: 2025-09-26 16:33:44 ==========
+Total Attempts: 3
+Successful Matches: 2
+Accuracy: 66.7%
+Average Speed: 0.11s
+Speaker Recognition: Active
+2025-09-26 16:46:00 | Abellera +5 (teacher voice) | Total: 10 | StandardScore: 98% | Speed: 0.16s
+2025-09-26 16:46:03 | Alba +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.10s
+2025-09-26 16:46:06 | Cipriano +5 (teacher voice) | Total: 5 | StandardScore: 85% | Speed: 0.13s
+2025-09-26 16:46:09 | Samonte +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.12s
+2025-09-26 16:46:12 | Belleza +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.14s
+2025-09-26 16:46:15 | Bindoy +5 (teacher voice) | Total: 15 | StandardScore: 77% | Speed: 0.12s
+2025-09-26 16:46:26 | NEEDS_FIRST_NAME +5 (teacher voice) | Total: 5 | StandardScore: 95% | Speed: 0.18s
+2025-09-26 16:46:41 | Borja +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 16:46:44 | Cipriano +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.12s
+2025-09-26 16:46:47 | Cruz +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.11s
+2025-09-26 16:46:50 | Dasco +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.11s
+2025-09-26 16:46:53 | Cruz +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.15s
+2025-09-26 16:46:59 | Peña +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 16:47:02 | Deris +5 (teacher voice) | Total: 10 | StandardScore: 101% | Speed: 0.13s
+2025-09-26 16:47:05 | Dublois +5 (teacher voice) | Total: 10 | StandardScore: 87% | Speed: 0.14s
+2025-09-26 16:47:08 | Belleza +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 16:47:11 | Espiritu +5 (teacher voice) | Total: 10 | StandardScore: 103% | Speed: 0.14s
+2025-09-26 16:47:14 | Fatalla +5 (teacher voice) | Total: 20 | StandardScore: 101% | Speed: 0.14s
+2025-09-26 16:47:16 | Franco +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 16:47:19 | Garcia +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.10s
+2025-09-26 16:47:21 | Guevarra +4 (teacher voice) | Total: 19 | StandardScore: 110% | Speed: 0.11s
+2025-09-26 16:47:24 | Ison +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 16:47:26 | Cipriano +1 (teacher voice) | Total: 11 | StandardScore: 90% | Speed: 0.13s
+2025-09-26 16:47:31 | Cipriano +1 (teacher voice) | Total: 12 | StandardScore: 90% | Speed: 0.12s
+2025-09-26 16:47:35 | Lagdan +5 (teacher voice) | Total: 15 | StandardScore: 102% | Speed: 0.15s
+2025-09-26 16:47:38 | Fatalla +5 (teacher voice) | Total: 25 | StandardScore: 96% | Speed: 0.14s
+2025-09-26 16:47:42 | Mijares +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.13s
+2025-09-26 16:47:45 | Marquez +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.12s
+2025-09-26 16:47:49 | Ocol, Sean +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.17s
+2025-09-26 16:47:53 | Surell +5 (teacher voice) | Total: 5 | StandardScore: 90% | Speed: 0.22s
+2025-09-26 16:48:00 | Torres +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.11s
+
+========== SESSION END: 2025-09-26 16:49:34 ==========
+Total Attempts: 38
+Successful Matches: 31
+Accuracy: 81.6%
+Average Speed: 0.13s
+Speaker Recognition: Active
+2025-09-26 17:53:04 | Ison +5 (teacher voice) | Total: 40 | StandardScore: 96% | Speed: 0.14s
+2025-09-26 17:53:08 | Ison +5 (teacher voice) | Total: 45 | StandardScore: 96% | Speed: 0.14s
+2025-09-26 17:53:14 | Ison +5 (teacher voice) | Total: 50 | StandardScore: 96% | Speed: 0.17s
+2025-09-26 17:53:18 | Blanco, Jerard +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.20s
+2025-09-26 17:53:22 | Blanco, Jerard +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.20s
+2025-09-26 17:53:30 | Blanco, Jerard +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.27s
+2025-09-26 17:53:35 | Cruz +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.17s
+2025-09-26 17:53:38 | Cruz +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.14s
+2025-09-26 17:53:41 | Peña +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.14s
+2025-09-26 17:53:45 | Dela Rama +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.15s
+
+========== SESSION END: 2025-09-26 17:53:46 ==========
+Total Attempts: 12
+Successful Matches: 10
+Accuracy: 83.3%
+Average Speed: 0.18s
+Speaker Recognition: Active
+2025-09-26 17:55:49 | Belleza +5 (teacher voice) | Total: 15 | StandardScore: 83% | Speed: 0.19s
+2025-09-26 17:55:53 | Blanco, Jerard +5 (teacher voice) | Total: 25 | StandardScore: 93% | Speed: 0.18s
+2025-09-26 17:55:56 | Blanco, Jerard +5 (teacher voice) | Total: 30 | StandardScore: 93% | Speed: 0.17s
+2025-09-26 17:56:00 | Blanco, Raizjhea +5 (teacher voice) | Total: 5 | StandardScore: 90% | Speed: 0.24s
+2025-09-26 17:56:03 | Blanco, Jerard +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.17s
+2025-09-26 17:56:07 | Blanco, Jerard +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.19s
+2025-09-26 17:56:11 | Peña +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.18s
+2025-09-26 17:56:14 | Peña +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.15s
+2025-09-26 17:56:17 | Cruz +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.14s
+2025-09-26 17:56:20 | Cruz +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.12s
+2025-09-26 17:56:24 | Espiritu +5 (teacher voice) | Total: 15 | StandardScore: 103% | Speed: 0.16s
+2025-09-26 17:56:28 | Martinez +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.13s
+2025-09-26 17:56:32 | Cipriano +5 (teacher voice) | Total: 17 | StandardScore: 77% | Speed: 0.23s
+2025-09-26 17:56:35 | Requiño +5 (teacher voice) | Total: 5 | StandardScore: 93% | Speed: 0.16s
+2025-09-26 17:56:38 | Samonte +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.12s
+2025-09-26 17:56:42 | Silvestre +5 (teacher voice) | Total: 5 | StandardScore: 96% | Speed: 0.12s
+2025-09-26 17:56:50 | Silvestre +5 (teacher voice) | Total: 10 | StandardScore: 96% | Speed: 0.14s
+
+========== SESSION END: 2025-09-26 17:56:53 ==========
+Total Attempts: 19
+Successful Matches: 17
+Accuracy: 89.5%
+Average Speed: 0.16s
+Speaker Recognition: Active
+2025-09-26 19:06:37 | Bindoy +5 (teacher voice) | Total: 20 | StandardScore: 71% | Speed: 0.29s
+
+========== SESSION END: 2025-09-26 19:06:49 ==========
+Total Attempts: 5
+Successful Matches: 1
+Accuracy: 20.0%
+Average Speed: 0.25s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-26 19:08:31 ==========
+Total Attempts: 2
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-26 19:08:54 | Belleza +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.16s
+
+========== SESSION END: 2025-09-26 19:08:56 ==========
+Total Attempts: 1
+Successful Matches: 1
+Accuracy: 100.0%
+Average Speed: 0.16s
+Speaker Recognition: Active
+2025-09-27 13:29:32 | Abellera +5 (teacher voice) | Total: 15 | StandardScore: 62% | Speed: 0.21s
+2025-09-27 13:29:46 | Bindoy +5 (teacher voice) | Total: 25 | StandardScore: 71% | Speed: 0.16s
+2025-09-27 13:30:10 | Borja +5 (teacher voice) | Total: 20 | StandardScore: 91% | Speed: 0.21s
+2025-09-27 13:30:14 | Peña +5 (teacher voice) | Total: 35 | StandardScore: 100% | Speed: 0.18s
+2025-09-27 13:30:24 | Cruz +5 (teacher voice) | Total: 35 | StandardScore: 100% | Speed: 0.19s
+2025-09-27 13:30:29 | Lagdan +5 (teacher voice) | Total: 20 | StandardScore: 92% | Speed: 0.16s
+2025-09-27 13:30:33 | Loyola +5 (teacher voice) | Total: 10 | StandardScore: 80% | Speed: 0.17s
+
+========== SESSION END: 2025-09-27 13:30:46 ==========
+Total Attempts: 19
+Successful Matches: 7
+Accuracy: 36.8%
+Average Speed: 0.20s
+Speaker Recognition: Active
+2025-09-27 13:33:48 | Borja +5 (teacher voice) | Total: 25 | StandardScore: 91% | Speed: 0.22s
+2025-09-27 13:34:10 | Cruz +5 (teacher voice) | Total: 40 | StandardScore: 100% | Speed: 0.15s
+2025-09-27 13:34:15 | Nieva +5 (teacher voice) | Total: 5 | StandardScore: 67% | Speed: 0.22s
+
+========== SESSION END: 2025-09-27 13:34:17 ==========
+Total Attempts: 8
+Successful Matches: 3
+Accuracy: 37.5%
+Average Speed: 0.21s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 13:39:31 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 13:44:02 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 13:58:18 ==========
+Total Attempts: 4
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.24s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 14:13:41 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+2025-09-27 14:16:32 | Samonte +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.20s
+2025-09-27 14:16:35 | Ison +5 (teacher voice) | Total: 55 | StandardScore: 96% | Speed: 0.18s
+2025-09-27 14:16:39 | Ison +5 (teacher voice) | Total: 60 | StandardScore: 96% | Speed: 0.20s
+2025-09-27 14:16:43 | Blanco, Jerard +5 (teacher voice) | Total: 45 | StandardScore: 110% | Speed: 0.26s
+2025-09-27 14:16:45 | Blanco, Keon +5 (teacher voice) | Total: 5 | StandardScore: 90% | Speed: 0.20s
+2025-09-27 14:16:49 | Garcia +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.26s
+2025-09-27 14:16:53 | Silvestre +5 (teacher voice) | Total: 15 | StandardScore: 85% | Speed: 0.25s
+2025-09-27 14:16:56 | Cruz +5 (teacher voice) | Total: 45 | StandardScore: 110% | Speed: 0.16s
+2025-09-27 14:16:59 | Cruz +5 (teacher voice) | Total: 50 | StandardScore: 110% | Speed: 0.16s
+2025-09-27 14:17:02 | Peña +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.17s
+2025-09-27 14:17:06 | Dela Rama +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.18s
+2025-09-27 14:17:13 | Espiritu +5 (teacher voice) | Total: 20 | StandardScore: 67% | Speed: 0.19s
+2025-09-27 14:17:16 | Jonsay +5 (teacher voice) | Total: 5 | StandardScore: 85% | Speed: 0.18s
+2025-09-27 14:17:20 | Llamas +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.18s
+
+========== SESSION END: 2025-09-27 14:17:22 ==========
+Total Attempts: 16
+Successful Matches: 14
+Accuracy: 87.5%
+Average Speed: 0.19s
+Speaker Recognition: Active
+2025-09-27 14:28:57 | Belleza +5 (teacher voice) | Total: 25 | StandardScore: 77% | Speed: 0.18s
+2025-09-27 14:29:01 | Blanco, Keon +5 (teacher voice) | Total: 10 | StandardScore: 92% | Speed: 0.28s
+2025-09-27 14:29:05 | Blanco, Raizjhea +5 (teacher voice) | Total: 10 | StandardScore: 84% | Speed: 0.26s
+2025-09-27 14:29:08 | Franco +5 (teacher voice) | Total: 15 | StandardScore: 77% | Speed: 0.20s
+2025-09-27 14:29:12 | Cipriano +5 (teacher voice) | Total: 22 | StandardScore: 77% | Speed: 0.24s
+2025-09-27 14:29:15 | Cruz +5 (teacher voice) | Total: 55 | StandardScore: 105% | Speed: 0.18s
+2025-09-27 14:29:18 | Cruz +5 (teacher voice) | Total: 60 | StandardScore: 105% | Speed: 0.17s
+2025-09-27 14:29:21 | Peña +5 (teacher voice) | Total: 45 | StandardScore: 105% | Speed: 0.18s
+2025-09-27 14:29:24 | Alba +5 (teacher voice) | Total: 25 | StandardScore: 85% | Speed: 0.21s
+2025-09-27 14:29:27 | Alba +5 (teacher voice) | Total: 30 | StandardScore: 85% | Speed: 0.22s
+2025-09-27 14:29:32 | Ocol, Sean +5 (teacher voice) | Total: 15 | StandardScore: 88% | Speed: 0.21s
+2025-09-27 14:29:36 | Nieva +5 (teacher voice) | Total: 10 | StandardScore: 77% | Speed: 0.26s
+2025-09-27 14:29:39 | Torres +5 (teacher voice) | Total: 10 | StandardScore: 77% | Speed: 0.27s
+2025-09-27 14:29:43 | Surell +5 (teacher voice) | Total: 10 | StandardScore: 77% | Speed: 0.28s
+
+========== SESSION END: 2025-09-27 14:29:47 ==========
+Total Attempts: 16
+Successful Matches: 14
+Accuracy: 87.5%
+Average Speed: 0.22s
+Speaker Recognition: Active
+2025-09-27 14:38:47 | Belleza +5 (teacher voice) | Total: 30 | StandardScore: 77% | Speed: 0.18s
+2025-09-27 14:38:50 | Blanco, Jerard +5 (teacher voice) | Total: 50 | StandardScore: 99% | Speed: 0.23s
+2025-09-27 14:38:54 | Blanco, Keon +5 (teacher voice) | Total: 15 | StandardScore: 92% | Speed: 0.24s
+2025-09-27 14:38:57 | Blanco, Jerard +5 (teacher voice) | Total: 55 | StandardScore: 93% | Speed: 0.28s
+2025-09-27 14:39:01 | Blanco, Raizjhea +5 (teacher voice) | Total: 15 | StandardScore: 84% | Speed: 0.28s
+2025-09-27 14:39:04 | Cipriano +5 (teacher voice) | Total: 27 | StandardScore: 72% | Speed: 0.21s
+2025-09-27 14:39:07 | Cruz +5 (teacher voice) | Total: 65 | StandardScore: 105% | Speed: 0.20s
+2025-09-27 14:39:10 | Cruz +5 (teacher voice) | Total: 70 | StandardScore: 105% | Speed: 0.18s
+2025-09-27 14:39:13 | Cruz +5 (teacher voice) | Total: 75 | StandardScore: 105% | Speed: 0.22s
+2025-09-27 14:39:20 | Peña +5 (teacher voice) | Total: 50 | StandardScore: 105% | Speed: 0.20s
+2025-09-27 14:39:23 | Deris +5 (teacher voice) | Total: 15 | StandardScore: 101% | Speed: 0.20s
+2025-09-27 14:39:32 | Ordonez +1 (teacher voice) | Total: 1 | StandardScore: 70% | Speed: 0.20s
+2025-09-27 14:39:35 | Llamas +5 (teacher voice) | Total: 20 | StandardScore: 83% | Speed: 0.18s
+2025-09-27 14:39:42 | Loyola +5 (teacher voice) | Total: 15 | StandardScore: 70% | Speed: 0.21s
+2025-09-27 14:39:48 | Marquez +5 (teacher voice) | Total: 10 | StandardScore: 105% | Speed: 0.19s
+2025-09-27 14:39:51 | Negru +5 (teacher voice) | Total: 5 | StandardScore: 77% | Speed: 0.18s
+2025-09-27 14:39:54 | Nieva +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.19s
+2025-09-27 14:39:58 | Dela Peña +5 (teacher voice) | Total: 5 | StandardScore: 66% | Speed: 0.28s
+2025-09-27 14:40:01 | Nieva +5 (teacher voice) | Total: 20 | StandardScore: 77% | Speed: 0.25s
+2025-09-27 14:40:05 | Nieva +5 (teacher voice) | Total: 25 | StandardScore: 77% | Speed: 0.31s
+2025-09-27 14:40:08 | Ocol, Sean +5 (teacher voice) | Total: 20 | StandardScore: 88% | Speed: 0.20s
+2025-09-27 14:40:11 | Okol, Xyzea +5 (teacher voice) | Total: 5 | StandardScore: 80% | Speed: 0.28s
+2025-09-27 14:40:14 | Olid +5 (teacher voice) | Total: 5 | StandardScore: 85% | Speed: 0.16s
+2025-09-27 14:40:17 | Ordonez +5 (teacher voice) | Total: 6 | StandardScore: 105% | Speed: 0.23s
+2025-09-27 14:40:21 | Requiño +5 (teacher voice) | Total: 10 | StandardScore: 87% | Speed: 0.20s
+2025-09-27 14:40:37 | Abellera +5 (teacher voice) | Total: 20 | StandardScore: 72% | Speed: 0.21s
+2025-09-27 14:40:40 | Garcia +5 (teacher voice) | Total: 25 | StandardScore: 70% | Speed: 0.37s
+2025-09-27 14:40:43 | Belleza +5 (teacher voice) | Total: 35 | StandardScore: 105% | Speed: 0.28s
+
+========== SESSION END: 2025-09-27 14:40:46 ==========
+Total Attempts: 38
+Successful Matches: 28
+Accuracy: 73.7%
+Average Speed: 0.22s
+Speaker Recognition: Active
+2025-09-27 14:47:49 | Deris +5 (teacher voice) | Total: 20 | StandardScore: 70% | Speed: 0.27s
+2025-09-27 14:48:02 | Blanco, Keon +5 (teacher voice) | Total: 20 | StandardScore: 86% | Speed: 0.29s
+2025-09-27 14:48:06 | Nieva +5 (teacher voice) | Total: 30 | StandardScore: 77% | Speed: 0.34s
+
+========== SESSION END: 2025-09-27 14:48:18 ==========
+Total Attempts: 9
+Successful Matches: 3
+Accuracy: 33.3%
+Average Speed: 0.23s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 15:04:06 ==========
+Total Attempts: 4
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.16s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 15:15:36 ==========
+Total Attempts: 2
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.21s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 15:19:20 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+2025-09-27 16:35:01 | Dela Cruz +5 (teacher voice) | Total: 5 | StandardScore: 105% | Speed: 0.19s
+2025-09-27 16:35:06 | Dela Peña +5 (teacher voice) | Total: 10 | StandardScore: 105% | Speed: 0.21s
+2025-09-27 16:35:09 | Dela Peña +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 16:35:12 | Peña +5 (teacher voice) | Total: 55 | StandardScore: 105% | Speed: 0.20s
+2025-09-27 16:35:16 | Jonsay +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.27s
+2025-09-27 16:35:19 | Franco +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.26s
+2025-09-27 16:35:23 | Silvestre +5 (teacher voice) | Total: 20 | StandardScore: 85% | Speed: 0.24s
+2025-09-27 16:35:26 | Silvestre +5 (teacher voice) | Total: 25 | StandardScore: 85% | Speed: 0.18s
+
+========== SESSION END: 2025-09-27 16:35:28 ==========
+Total Attempts: 9
+Successful Matches: 8
+Accuracy: 88.9%
+Average Speed: 0.20s
+Speaker Recognition: Active
+2025-09-27 16:42:03 | Abellera +5 (teacher voice) | Total: 25 | StandardScore: 98% | Speed: 0.22s
+2025-09-27 16:42:06 | Alba +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 16:42:09 | Silvestre +5 (teacher voice) | Total: 30 | StandardScore: 85% | Speed: 0.18s
+2025-09-27 16:42:12 | Samonte +5 (teacher voice) | Total: 25 | StandardScore: 90% | Speed: 0.26s
+2025-09-27 16:42:18 | Bindoy +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 16:42:25 | Sajo +5 (teacher voice) | Total: 5 | StandardScore: 96% | Speed: 0.28s
+2025-09-27 16:42:29 | Silvestre +5 (teacher voice) | Total: 35 | StandardScore: 85% | Speed: 0.31s
+2025-09-27 16:42:33 | Silvestre +5 (teacher voice) | Total: 40 | StandardScore: 85% | Speed: 0.28s
+2025-09-27 16:42:36 | Olid +5 (teacher voice) | Total: 10 | StandardScore: 96% | Speed: 0.24s
+2025-09-27 16:42:40 | Dela Cruz +5 (teacher voice) | Total: 10 | StandardScore: 105% | Speed: 0.14s
+2025-09-27 16:42:42 | Cruz +5 (teacher voice) | Total: 80 | StandardScore: 105% | Speed: 0.17s
+
+========== SESSION END: 2025-09-27 16:42:45 ==========
+Total Attempts: 13
+Successful Matches: 11
+Accuracy: 84.6%
+Average Speed: 0.22s
+Speaker Recognition: Active
+2025-09-27 17:02:09 | Ison +5 (teacher voice) | Total: 65 | StandardScore: 96% | Speed: 0.13s
+
+========== SESSION END: 2025-09-27 17:02:11 ==========
+Total Attempts: 3
+Successful Matches: 1
+Accuracy: 33.3%
+Average Speed: 0.13s
+Speaker Recognition: Active
+2025-09-27 17:15:16 | Guevarra +5 (teacher voice) | Total: 24 | StandardScore: 77% | Speed: 0.16s
+2025-09-27 17:15:19 | Belleza +5 (teacher voice) | Total: 40 | StandardScore: 77% | Speed: 0.15s
+2025-09-27 17:15:23 | Lagdan +5 (teacher voice) | Total: 25 | StandardScore: 83% | Speed: 0.22s
+2025-09-27 17:15:26 | Franco +5 (teacher voice) | Total: 25 | StandardScore: 77% | Speed: 0.15s
+
+========== SESSION END: 2025-09-27 17:15:28 ==========
+Total Attempts: 4
+Successful Matches: 4
+Accuracy: 100.0%
+Average Speed: 0.17s
+Speaker Recognition: Active
+2025-09-27 17:20:29 | Lagdan +5 (teacher voice) | Total: 30 | StandardScore: 72% | Speed: 0.16s
+2025-09-27 17:20:36 | Blanco, Jerard +5 (teacher voice) | Total: 60 | StandardScore: 84% | Speed: 0.17s
+2025-09-27 17:20:39 | Blanco, Keon +5 (teacher voice) | Total: 25 | StandardScore: 83% | Speed: 0.16s
+2025-09-27 17:20:46 | Blanco, Raizjhea +5 (teacher voice) | Total: 20 | StandardScore: 84% | Speed: 0.21s
+2025-09-27 17:20:56 | Borja +5 (teacher voice) | Total: 30 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 17:20:59 | Cipriano +5 (teacher voice) | Total: 32 | StandardScore: 72% | Speed: 0.16s
+2025-09-27 17:21:04 | Dela Cruz +5 (teacher voice) | Total: 15 | StandardScore: 105% | Speed: 0.13s
+2025-09-27 17:21:10 | Cruz +5 (teacher voice) | Total: 85 | StandardScore: 105% | Speed: 0.11s
+2025-09-27 17:21:13 | Peña +5 (teacher voice) | Total: 60 | StandardScore: 105% | Speed: 0.15s
+2025-09-27 17:21:15 | Peña +5 (teacher voice) | Total: 65 | StandardScore: 105% | Speed: 0.13s
+2025-09-27 17:21:18 | Peña +5 (teacher voice) | Total: 70 | StandardScore: 105% | Speed: 0.12s
+
+========== SESSION END: 2025-09-27 17:21:21 ==========
+Total Attempts: 17
+Successful Matches: 11
+Accuracy: 64.7%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-27 17:42:43 | Belleza +5 (teacher voice) | Total: 45 | StandardScore: 60% | Speed: 0.12s
+2025-09-27 17:43:00 | Nieva +5 (teacher voice) | Total: 35 | StandardScore: 51% | Speed: 0.17s
+2025-09-27 17:43:04 | Lagdan +5 (teacher voice) | Total: 35 | StandardScore: 52% | Speed: 0.21s
+2025-09-27 17:43:07 | Bindoy +5 (teacher voice) | Total: 35 | StandardScore: 82% | Speed: 0.12s
+2025-09-27 17:43:11 | Franco +5 (teacher voice) | Total: 30 | StandardScore: 53% | Speed: 0.18s
+2025-09-27 17:43:16 | Dela Peña +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 17:43:19 | Peña +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.13s
+
+========== SESSION END: 2025-09-27 17:43:22 ==========
+Total Attempts: 8
+Successful Matches: 7
+Accuracy: 87.5%
+Average Speed: 0.14s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 18:21:34 ==========
+Total Attempts: 2
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.14s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-27 18:25:31 ==========
+Total Attempts: 4
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.12s
+Speaker Recognition: Active
+2025-09-27 18:29:16 | Alba +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:29:24 | Franco +5 (teacher voice) | Total: 35 | StandardScore: 90% | Speed: 0.18s
+2025-09-27 18:29:28 | Olid +5 (teacher voice) | Total: 15 | StandardScore: 96% | Speed: 0.16s
+2025-09-27 18:29:31 | Bindoy +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:29:36 | Bindoy +5 (teacher voice) | Total: 45 | StandardScore: 90% | Speed: 0.14s
+
+========== SESSION END: 2025-09-27 18:29:38 ==========
+Total Attempts: 6
+Successful Matches: 5
+Accuracy: 83.3%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-27 18:30:29 | Samonte +5 (teacher voice) | Total: 30 | StandardScore: 90% | Speed: 0.13s
+2025-09-27 18:30:32 | Abellera +5 (teacher voice) | Total: 30 | StandardScore: 98% | Speed: 0.13s
+2025-09-27 18:30:42 | Alba +5 (teacher voice) | Total: 45 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:30:45 | Olid +5 (teacher voice) | Total: 20 | StandardScore: 96% | Speed: 0.18s
+
+========== SESSION END: 2025-09-27 18:31:03 ==========
+Total Attempts: 7
+Successful Matches: 4
+Accuracy: 57.1%
+Average Speed: 0.10s
+Speaker Recognition: Active
+2025-09-27 18:36:33 | Silvestre +5 (teacher voice) | Total: 45 | StandardScore: 85% | Speed: 0.15s
+2025-09-27 18:36:35 | Belleza +5 (teacher voice) | Total: 50 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:36:40 | Jonsay +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.21s
+2025-09-27 18:36:45 | Jonsay +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.23s
+2025-09-27 18:36:49 | Borja +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:36:52 | Cipriano +5 (teacher voice) | Total: 37 | StandardScore: 96% | Speed: 0.15s
+2025-09-27 18:36:55 | Cruz +5 (teacher voice) | Total: 90 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:36:58 | Dela Cruz +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:37:02 | Fatalla +5 (teacher voice) | Total: 30 | StandardScore: 102% | Speed: 0.10s
+2025-09-27 18:37:04 | Franco +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:37:07 | Garcia +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:37:10 | Ordonez +1 (teacher voice) | Total: 7 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:37:15 | Ison +5 (teacher voice) | Total: 70 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:37:18 | Lagdan +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.10s
+2025-09-27 18:37:26 | Llamas +5 (teacher voice) | Total: 25 | StandardScore: 99% | Speed: 0.12s
+2025-09-27 18:37:29 | Fatalla +5 (teacher voice) | Total: 35 | StandardScore: 96% | Speed: 0.13s
+2025-09-27 18:37:32 | Fatalla +5 (teacher voice) | Total: 40 | StandardScore: 96% | Speed: 0.13s
+2025-09-27 18:37:35 | Martinez +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:37:38 | Mijares +5 (teacher voice) | Total: 15 | StandardScore: 96% | Speed: 0.12s
+2025-09-27 18:37:41 | Narag +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:37:43 | Negru +5 (teacher voice) | Total: 10 | StandardScore: 99% | Speed: 0.13s
+2025-09-27 18:37:46 | Nieva +5 (teacher voice) | Total: 40 | StandardScore: 90% | Speed: 0.11s
+2025-09-27 18:37:49 | Surell +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.18s
+2025-09-27 18:37:52 | Jonsay +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.19s
+2025-09-27 18:37:55 | Silvestre +5 (teacher voice) | Total: 50 | StandardScore: 85% | Speed: 0.11s
+2025-09-27 18:38:00 | Ordonez +5 (teacher voice) | Total: 12 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:38:03 | Paculan +5 (teacher voice) | Total: 5 | StandardScore: 93% | Speed: 0.10s
+2025-09-27 18:38:06 | Pacheco +5 (teacher voice) | Total: 5 | StandardScore: 102% | Speed: 0.11s
+2025-09-27 18:38:09 | Pandi +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:38:22 | Samonte +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:38:25 | Saribay +5 (teacher voice) | Total: 5 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:38:28 | Silvestre +5 (teacher voice) | Total: 55 | StandardScore: 104% | Speed: 0.12s
+2025-09-27 18:38:37 | Surell +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.10s
+2025-09-27 18:38:40 | Silvestre +5 (teacher voice) | Total: 60 | StandardScore: 104% | Speed: 0.14s
+2025-09-27 18:38:54 | Abellera +5 (teacher voice) | Total: 35 | StandardScore: 98% | Speed: 0.13s
+2025-09-27 18:38:57 | Alba +5 (teacher voice) | Total: 50 | StandardScore: 96% | Speed: 0.10s
+2025-09-27 18:39:00 | Silvestre +5 (teacher voice) | Total: 65 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:39:05 | Bindoy +5 (teacher voice) | Total: 50 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:39:11 | Franco +5 (teacher voice) | Total: 45 | StandardScore: 90% | Speed: 0.17s
+2025-09-27 18:39:20 | Jonsay +5 (teacher voice) | Total: 30 | StandardScore: 90% | Speed: 0.14s
+2025-09-27 18:39:23 | Jonsay +5 (teacher voice) | Total: 35 | StandardScore: 90% | Speed: 0.16s
+2025-09-27 18:39:30 | Franco +5 (teacher voice) | Total: 50 | StandardScore: 90% | Speed: 0.21s
+2025-09-27 18:39:41 | Borja +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:39:44 | Silvestre +5 (teacher voice) | Total: 70 | StandardScore: 85% | Speed: 0.14s
+2025-09-27 18:39:49 | Cruz +5 (teacher voice) | Total: 95 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:39:51 | Dasco +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.12s
+2025-09-27 18:39:54 | Cruz +5 (teacher voice) | Total: 100 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:39:56 | Cruz +5 (teacher voice) | Total: 105 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:40:00 | Dela Peña +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:40:02 | Dela Cruz +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:40:06 | Dela Rama +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 18:40:09 | Deris +5 (teacher voice) | Total: 25 | StandardScore: 101% | Speed: 0.11s
+2025-09-27 18:40:12 | Dublois +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.12s
+2025-09-27 18:40:15 | Espiritu +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:40:20 | Fatalla +5 (teacher voice) | Total: 45 | StandardScore: 102% | Speed: 0.12s
+2025-09-27 18:40:22 | Franco +5 (teacher voice) | Total: 55 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:40:25 | Garcia +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:40:27 | Guevarra +5 (teacher voice) | Total: 29 | StandardScore: 90% | Speed: 0.13s
+2025-09-27 18:40:29 | Ison +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:40:37 | Ordonez +1 (teacher voice) | Total: 13 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:40:40 | Lagdan +5 (teacher voice) | Total: 45 | StandardScore: 110% | Speed: 0.10s
+2025-09-27 18:40:45 | Llamas +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:40:47 | Fatalla +5 (teacher voice) | Total: 50 | StandardScore: 96% | Speed: 0.11s
+2025-09-27 18:40:50 | Fatalla +5 (teacher voice) | Total: 55 | StandardScore: 96% | Speed: 0.12s
+2025-09-27 18:40:55 | Marquez +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:40:58 | Martinez +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:41:01 | Dela Rama +5 (teacher voice) | Total: 30 | StandardScore: 90% | Speed: 0.11s
+2025-09-27 18:41:03 | Mijares +5 (teacher voice) | Total: 20 | StandardScore: 96% | Speed: 0.12s
+2025-09-27 18:41:06 | Narag +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.12s
+2025-09-27 18:41:09 | Negru +5 (teacher voice) | Total: 15 | StandardScore: 99% | Speed: 0.12s
+2025-09-27 18:41:12 | Nieva +5 (teacher voice) | Total: 45 | StandardScore: 90% | Speed: 0.10s
+2025-09-27 18:41:15 | Loyola +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.14s
+2025-09-27 18:41:20 | Silvestre +5 (teacher voice) | Total: 75 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:41:23 | Ison +5 (teacher voice) | Total: 80 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 18:41:31 | Olid +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:41:34 | Ordonez +5 (teacher voice) | Total: 18 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:41:37 | Pacheco +5 (teacher voice) | Total: 10 | StandardScore: 102% | Speed: 0.12s
+2025-09-27 18:41:40 | Paculan +5 (teacher voice) | Total: 10 | StandardScore: 93% | Speed: 0.11s
+2025-09-27 18:41:43 | Pandi +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.11s
+2025-09-27 18:41:45 | Llamas +5 (teacher voice) | Total: 35 | StandardScore: 90% | Speed: 0.12s
+2025-09-27 18:41:48 | Paz +5 (teacher voice) | Total: 5 | StandardScore: 90% | Speed: 0.11s
+2025-09-27 18:41:51 | Silvestre +5 (teacher voice) | Total: 80 | StandardScore: 85% | Speed: 0.14s
+2025-09-27 18:41:54 | Silvestre +5 (teacher voice) | Total: 85 | StandardScore: 85% | Speed: 0.11s
+2025-09-27 18:41:56 | Silvestre +5 (teacher voice) | Total: 90 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:42:01 | Sajo +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.10s
+2025-09-27 18:42:04 | Samonte +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.10s
+2025-09-27 18:42:07 | Serviano +5 (teacher voice) | Total: 5 | StandardScore: 85% | Speed: 0.12s
+2025-09-27 18:42:09 | Saribay +5 (teacher voice) | Total: 10 | StandardScore: 110% | Speed: 0.13s
+2025-09-27 18:42:12 | Serviano +5 (teacher voice) | Total: 10 | StandardScore: 96% | Speed: 0.15s
+2025-09-27 18:42:15 | Silvestre +5 (teacher voice) | Total: 95 | StandardScore: 104% | Speed: 0.14s
+2025-09-27 18:42:18 | Surell +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.09s
+2025-09-27 18:42:21 | Torres +5 (teacher voice) | Total: 15 | StandardScore: 85% | Speed: 0.12s
+2025-09-27 18:45:40 | Samonte +5 (teacher voice) | Total: 45 | StandardScore: 90% | Speed: 0.12s
+2025-09-27 18:45:43 | Ison +5 (teacher voice) | Total: 85 | StandardScore: 96% | Speed: 0.13s
+2025-09-27 18:45:46 | Silvestre +5 (teacher voice) | Total: 100 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:45:49 | Olid +5 (teacher voice) | Total: 30 | StandardScore: 96% | Speed: 0.18s
+2025-09-27 18:45:52 | Franco +5 (teacher voice) | Total: 60 | StandardScore: 90% | Speed: 0.18s
+2025-09-27 18:45:55 | Franco +5 (teacher voice) | Total: 65 | StandardScore: 90% | Speed: 0.18s
+2025-09-27 18:45:58 | Cipriano +5 (teacher voice) | Total: 42 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:46:01 | Fatalla +5 (teacher voice) | Total: 60 | StandardScore: 96% | Speed: 0.15s
+2025-09-27 18:46:04 | Fatalla +5 (teacher voice) | Total: 65 | StandardScore: 96% | Speed: 0.16s
+2025-09-27 18:46:07 | Silvestre +5 (teacher voice) | Total: 105 | StandardScore: 85% | Speed: 0.14s
+2025-09-27 18:46:10 | Ison +5 (teacher voice) | Total: 90 | StandardScore: 96% | Speed: 0.15s
+2025-09-27 18:46:13 | Silvestre +5 (teacher voice) | Total: 110 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:46:15 | Surell +5 (teacher voice) | Total: 30 | StandardScore: 90% | Speed: 0.16s
+2025-09-27 18:46:18 | Cipriano +5 (teacher voice) | Total: 47 | StandardScore: 90% | Speed: 0.12s
+2025-09-27 18:46:26 | Ordonez +1 (teacher voice) | Total: 19 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 18:46:29 | Silvestre +5 (teacher voice) | Total: 115 | StandardScore: 85% | Speed: 0.15s
+2025-09-27 18:49:51 | Belleza +5 (teacher voice) | Total: 55 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:49:54 | Franco +5 (teacher voice) | Total: 70 | StandardScore: 90% | Speed: 0.14s
+2025-09-27 18:49:57 | Silvestre +5 (teacher voice) | Total: 120 | StandardScore: 85% | Speed: 0.16s
+2025-09-27 18:50:00 | Lagdan +5 (teacher voice) | Total: 50 | StandardScore: 96% | Speed: 0.19s
+2025-09-27 18:50:03 | Jonsay +5 (teacher voice) | Total: 40 | StandardScore: 90% | Speed: 0.18s
+2025-09-27 18:50:09 | Ordonez +1 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.15s
+2025-09-27 18:50:12 | Jonsay +5 (teacher voice) | Total: 45 | StandardScore: 96% | Speed: 0.12s
+2025-09-27 18:50:14 | Fatalla +5 (teacher voice) | Total: 70 | StandardScore: 96% | Speed: 0.14s
+2025-09-27 18:50:17 | Fatalla +5 (teacher voice) | Total: 75 | StandardScore: 90% | Speed: 0.13s
+2025-09-27 18:50:19 | Fatalla +5 (teacher voice) | Total: 80 | StandardScore: 96% | Speed: 0.16s
+2025-09-27 18:50:26 | Fatalla +5 (teacher voice) | Total: 85 | StandardScore: 110% | Speed: 0.18s
+2025-09-27 18:50:29 | Fatalla +5 (teacher voice) | Total: 90 | StandardScore: 110% | Speed: 0.16s
+2025-09-27 18:50:35 | Silvestre +5 (teacher voice) | Total: 125 | StandardScore: 85% | Speed: 0.13s
+2025-09-27 18:50:38 | Belleza +5 (teacher voice) | Total: 60 | StandardScore: 110% | Speed: 0.14s
+
+========== SESSION END: 2025-09-27 18:50:41 ==========
+Total Attempts: 17
+Successful Matches: 14
+Accuracy: 82.4%
+Average Speed: 0.15s
+Speaker Recognition: Active
+2025-09-27 19:06:18 | Bindoy +5 (teacher voice) | Total: 55 | StandardScore: 81% | Speed: 0.10s
+2025-09-27 19:06:25 | Belleza +5 (teacher voice) | Total: 65 | StandardScore: 110% | Speed: 0.14s
+2025-09-27 19:06:40 | Loyola +5 (teacher voice) | Total: 25 | StandardScore: 90% | Speed: 0.14s
+
+========== SESSION END: 2025-09-27 19:19:38 ==========
+Total Attempts: 86
+Successful Matches: 3
+Accuracy: 3.5%
+Average Speed: 0.13s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 13:37:33 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 13:46:24 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 13:52:48 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 13:59:59 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 14:32:49 ==========
+Total Attempts: 5
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.18s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-28 14:41:59 ==========
+Total Attempts: 3
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.13s
+Speaker Recognition: Active
+2025-09-28 15:11:56 | Bindoy +5 (teacher voice) | Total: 60 | StandardScore: 110% | Speed: 0.24s
+
+========== SESSION END: 2025-09-28 15:12:30 ==========
+Total Attempts: 6
+Successful Matches: 1
+Accuracy: 16.7%
+Average Speed: 0.18s
+Speaker Recognition: Active
+2025-09-28 15:51:54 | Alba +5 (teacher voice) | Total: 55 | StandardScore: 110% | Speed: 0.15s
+2025-09-28 15:51:58 | Blanco, Jerard +5 (teacher voice) | Total: 65 | StandardScore: 110% | Speed: 0.24s
+2025-09-28 15:52:01 | Silvestre +5 (teacher voice) | Total: 130 | StandardScore: 85% | Speed: 0.21s
+2025-09-28 15:52:04 | Blanco, Jerard +5 (teacher voice) | Total: 70 | StandardScore: 110% | Speed: 0.21s
+2025-09-28 15:52:09 | Blanco, Jerard +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.26s
+2025-09-28 15:52:15 | Borja +5 (teacher voice) | Total: 45 | StandardScore: 110% | Speed: 0.17s
+2025-09-28 15:52:19 | Dela Cruz +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.16s
+
+========== SESSION END: 2025-09-28 15:52:21 ==========
+Total Attempts: 8
+Successful Matches: 7
+Accuracy: 87.5%
+Average Speed: 0.20s
+Speaker Recognition: Active
+2025-09-29 14:45:30 | Pandi +5 | Total: 20 | StandardScore: 100% | Speed: 0.17s
+2025-09-29 14:45:35 | Martinez +5 | Total: 30 | StandardScore: 100% | Speed: 0.19s
+2025-09-29 14:45:40 | Okol +5 | Total: 5 | StandardScore: 75% | Speed: 0.14s
+2025-09-29 14:45:46 | Guevarra +5 | Total: 34 | StandardScore: 100% | Speed: 0.14s
+2025-09-29 14:51:45 | Abellera +5 | Total: 40 | StandardScore: 82% | Speed: 0.19s
+2025-09-29 14:53:35 | Silvestre +5 (teacher voice) | Total: 135 | StandardScore: 85% | Speed: 0.24s
+2025-09-29 14:53:38 | Abellera +5 (teacher voice) | Total: 45 | StandardScore: 98% | Speed: 0.17s
+2025-09-29 14:53:41 | Alba +5 (teacher voice) | Total: 60 | StandardScore: 96% | Speed: 0.16s
+2025-09-29 14:53:44 | Silvestre +5 (teacher voice) | Total: 140 | StandardScore: 85% | Speed: 0.19s
+2025-09-29 14:53:47 | Belleza +5 (teacher voice) | Total: 70 | StandardScore: 110% | Speed: 0.19s
+2025-09-29 14:53:50 | Bindoy +5 (teacher voice) | Total: 65 | StandardScore: 110% | Speed: 0.14s
+2025-09-29 14:53:58 | Blanco, Jerard +5 (teacher voice) | Total: 80 | StandardScore: 110% | Speed: 0.24s
+2025-09-29 14:54:01 | Blanco, Jerard +5 (teacher voice) | Total: 85 | StandardScore: 110% | Speed: 0.28s
+2025-09-29 14:54:04 | Blanco, Jerard +5 (teacher voice) | Total: 90 | StandardScore: 110% | Speed: 0.26s
+2025-09-29 14:54:12 | Blanco, Jerard +5 (teacher voice) | Total: 95 | StandardScore: 110% | Speed: 0.29s
+2025-09-29 14:54:17 | Borja +5 (teacher voice) | Total: 50 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 14:54:20 | Cipriano +5 (teacher voice) | Total: 52 | StandardScore: 110% | Speed: 0.23s
+2025-09-29 14:54:24 | Cruz +5 (teacher voice) | Total: 110 | StandardScore: 110% | Speed: 0.13s
+2025-09-29 14:54:26 | Dasco +5 (teacher voice) | Total: 25 | StandardScore: 90% | Speed: 0.17s
+2025-09-29 14:54:29 | Dela Cruz +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 14:54:32 | Dela Peña +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.22s
+2025-09-29 14:54:36 | Dela Rama +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.20s
+2025-09-29 14:54:38 | Deris +5 (teacher voice) | Total: 30 | StandardScore: 101% | Speed: 0.17s
+2025-09-29 14:54:41 | Dublois +5 (teacher voice) | Total: 20 | StandardScore: 90% | Speed: 0.19s
+2025-09-29 14:54:44 | Espiritu +5 (teacher voice) | Total: 30 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 14:54:47 | Fatalla +5 (teacher voice) | Total: 95 | StandardScore: 102% | Speed: 0.15s
+2025-09-29 14:54:50 | Franco +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 14:54:52 | Garcia +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 14:54:55 | Guevarra +5 (teacher voice) | Total: 39 | StandardScore: 110% | Speed: 0.15s
+2025-09-29 14:54:58 | Ordonez +1 (teacher voice) | Total: 21 | StandardScore: 110% | Speed: 0.15s
+2025-09-29 14:55:00 | Ison +5 (teacher voice) | Total: 95 | StandardScore: 110% | Speed: 0.14s
+2025-09-29 14:55:03 | Ordonez +1 (teacher voice) | Total: 22 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 14:55:09 | Silvestre +5 (teacher voice) | Total: 145 | StandardScore: 85% | Speed: 0.19s
+2025-09-29 14:55:15 | Lagdan +5 (teacher voice) | Total: 55 | StandardScore: 102% | Speed: 0.13s
+2025-09-29 14:55:21 | Llamas +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 14:55:24 | Fatalla +5 (teacher voice) | Total: 100 | StandardScore: 96% | Speed: 0.18s
+2025-09-29 14:55:27 | Fatalla +5 (teacher voice) | Total: 105 | StandardScore: 96% | Speed: 0.18s
+2025-09-29 14:55:30 | Fatalla +5 (teacher voice) | Total: 110 | StandardScore: 96% | Speed: 0.25s
+2025-09-29 14:55:33 | Marquez +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 14:55:36 | Martinez +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.23s
+2025-09-29 14:55:39 | Dela Rama +5 (teacher voice) | Total: 40 | StandardScore: 90% | Speed: 0.19s
+2025-09-29 14:55:42 | Mijares +5 (teacher voice) | Total: 25 | StandardScore: 96% | Speed: 0.22s
+2025-09-29 14:55:46 | Narag +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.20s
+2025-09-29 14:55:48 | Negru +5 (teacher voice) | Total: 20 | StandardScore: 99% | Speed: 0.16s
+2025-09-29 14:55:51 | Nieva +5 (teacher voice) | Total: 50 | StandardScore: 90% | Speed: 0.17s
+2025-09-29 14:55:54 | Ocol, Sean +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 14:55:58 | Okol, Xyzea +5 (teacher voice) | Total: 10 | StandardScore: 99% | Speed: 0.25s
+2025-09-29 14:56:01 | Olid +5 (teacher voice) | Total: 35 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 14:56:04 | Ordonez +5 (teacher voice) | Total: 27 | StandardScore: 110% | Speed: 0.20s
+2025-09-29 14:56:07 | Pacheco +5 (teacher voice) | Total: 15 | StandardScore: 102% | Speed: 0.17s
+2025-09-29 14:56:10 | Paz +5 (teacher voice) | Total: 10 | StandardScore: 90% | Speed: 0.14s
+2025-09-29 14:56:13 | Paculan +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 14:56:16 | Pandi +5 (teacher voice) | Total: 25 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 14:56:19 | Paz +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.15s
+2025-09-29 14:56:21 | Peña +5 (teacher voice) | Total: 80 | StandardScore: 110% | Speed: 0.15s
+2025-09-29 14:56:24 | Silvestre +5 (teacher voice) | Total: 150 | StandardScore: 85% | Speed: 0.19s
+2025-09-29 14:56:27 | Cipriano +5 (teacher voice) | Total: 57 | StandardScore: 90% | Speed: 0.20s
+2025-09-29 14:56:30 | Silvestre +5 (teacher voice) | Total: 155 | StandardScore: 85% | Speed: 0.18s
+2025-09-29 14:56:33 | Silvestre +5 (teacher voice) | Total: 160 | StandardScore: 85% | Speed: 0.25s
+2025-09-29 14:56:36 | Sajo +5 (teacher voice) | Total: 15 | StandardScore: 90% | Speed: 0.18s
+2025-09-29 14:56:39 | Samonte +5 (teacher voice) | Total: 50 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 14:56:42 | Saribay +5 (teacher voice) | Total: 15 | StandardScore: 102% | Speed: 0.20s
+2025-09-29 14:56:45 | Serviano +5 (teacher voice) | Total: 15 | StandardScore: 96% | Speed: 0.19s
+2025-09-29 14:56:47 | Silvestre +5 (teacher voice) | Total: 165 | StandardScore: 104% | Speed: 0.18s
+2025-09-29 14:56:50 | Surell +5 (teacher voice) | Total: 35 | StandardScore: 96% | Speed: 0.13s
+2025-09-29 14:56:55 | Torres +5 (teacher voice) | Total: 20 | StandardScore: 101% | Speed: 0.16s
+2025-09-29 15:50:52 | Ison +5 (teacher voice) | Total: 100 | StandardScore: 96% | Speed: 0.24s
+2025-09-29 15:50:55 | Samonte +5 (teacher voice) | Total: 55 | StandardScore: 90% | Speed: 0.22s
+2025-09-29 15:50:59 | Samonte +5 (teacher voice) | Total: 60 | StandardScore: 90% | Speed: 0.27s
+2025-09-29 15:51:03 | Bindoy +5 (teacher voice) | Total: 70 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 15:51:06 | Franco +5 (teacher voice) | Total: 80 | StandardScore: 90% | Speed: 0.29s
+2025-09-29 15:51:10 | Silvestre +5 (teacher voice) | Total: 170 | StandardScore: 85% | Speed: 0.25s
+2025-09-29 15:51:14 | Silvestre +5 (teacher voice) | Total: 175 | StandardScore: 85% | Speed: 0.32s
+
+========== SESSION END: 2025-09-29 15:52:01 ==========
+Total Attempts: 9
+Successful Matches: 7
+Accuracy: 77.8%
+Average Speed: 0.25s
+Speaker Recognition: Active
+2025-09-29 16:05:48 | Ison +5 (teacher voice) | Total: 105 | StandardScore: 96% | Speed: 0.22s
+2025-09-29 16:05:51 | Ison +5 (teacher voice) | Total: 110 | StandardScore: 96% | Speed: 0.20s
+2025-09-29 16:05:54 | Bindoy +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.15s
+2025-09-29 16:06:01 | Requiño +5 (teacher voice) | Total: 15 | StandardScore: 110% | Speed: 0.23s
+2025-09-29 16:06:05 | Requiño +5 (teacher voice) | Total: 20 | StandardScore: 110% | Speed: 0.25s
+2025-09-29 16:06:10 | Borja +5 (teacher voice) | Total: 55 | StandardScore: 110% | Speed: 0.21s
+2025-09-29 16:06:14 | Alba +5 (teacher voice) | Total: 65 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 16:06:16 | Abellera +5 (teacher voice) | Total: 50 | StandardScore: 98% | Speed: 0.21s
+2025-09-29 16:06:20 | Cruz +5 (teacher voice) | Total: 115 | StandardScore: 110% | Speed: 0.14s
+2025-09-29 16:06:22 | Dela Cruz +5 (teacher voice) | Total: 40 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 16:11:23 | Bindoy +5 (teacher voice) | Total: 80 | StandardScore: 102% | Speed: 0.18s
+2025-09-29 16:11:31 | Lagdan +5 (teacher voice) | Total: 60 | StandardScore: 96% | Speed: 0.26s
+2025-09-29 16:11:36 | Abellera +5 (teacher voice) | Total: 55 | StandardScore: 90% | Speed: 0.28s
+
+========== SESSION END: 2025-09-29 16:11:46 ==========
+Total Attempts: 15
+Successful Matches: 3
+Accuracy: 20.0%
+Average Speed: 0.22s
+Speaker Recognition: Active
+2025-09-29 16:12:30 | Bindoy +5 (teacher voice) | Total: 85 | StandardScore: 102% | Speed: 0.22s
+2025-09-29 16:12:33 | Alba +5 (teacher voice) | Total: 70 | StandardScore: 110% | Speed: 0.15s
+2025-09-29 16:12:36 | Belleza +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.19s
+2025-09-29 16:13:05 | Alba +5 (teacher voice) | Total: 75 | StandardScore: 110% | Speed: 0.17s
+2025-09-29 16:13:09 | Blanco, Jerard +5 (teacher voice) | Total: 100 | StandardScore: 99% | Speed: 0.22s
+2025-09-29 16:13:12 | Ison +5 (teacher voice) | Total: 115 | StandardScore: 85% | Speed: 0.24s
+2025-09-29 16:13:16 | Ison +5 (teacher voice) | Total: 120 | StandardScore: 85% | Speed: 0.26s
+2025-09-29 16:13:26 | Martinez +5 (teacher voice) | Total: 40 | StandardScore: 93% | Speed: 0.21s
+2025-09-29 16:13:30 | Martinez +5 (teacher voice) | Total: 45 | StandardScore: 93% | Speed: 0.20s
+
+========== SESSION END: 2025-09-29 16:13:34 ==========
+Total Attempts: 19
+Successful Matches: 9
+Accuracy: 47.4%
+Average Speed: 0.22s
+Speaker Recognition: Active
+2025-09-29 16:18:47 | Olid +5 (teacher voice) | Total: 40 | StandardScore: 96% | Speed: 0.26s
+2025-09-29 16:18:50 | Olid +5 (teacher voice) | Total: 45 | StandardScore: 96% | Speed: 0.27s
+2025-09-29 16:18:54 | Blanco, Jerard +5 (teacher voice) | Total: 105 | StandardScore: 99% | Speed: 0.27s
+2025-09-29 16:18:57 | Jonsay +5 (teacher voice) | Total: 50 | StandardScore: 90% | Speed: 0.20s
+2025-09-29 16:19:01 | Blanco, Jerard +5 (teacher voice) | Total: 110 | StandardScore: 110% | Speed: 0.23s
+
+========== SESSION END: 2025-09-29 16:19:02 ==========
+Total Attempts: 5
+Successful Matches: 5
+Accuracy: 100.0%
+Average Speed: 0.24s
+Speaker Recognition: Active
+2025-09-29 16:19:22 | Blanco, Jerard +5 (teacher voice) | Total: 115 | StandardScore: 110% | Speed: 0.24s
+2025-09-29 16:19:26 | Jonsay +5 (teacher voice) | Total: 55 | StandardScore: 90% | Speed: 0.28s
+2025-09-29 16:19:29 | Jonsay +5 (teacher voice) | Total: 60 | StandardScore: 90% | Speed: 0.26s
+2025-09-29 16:19:34 | Silvestre +5 (teacher voice) | Total: 180 | StandardScore: 85% | Speed: 0.29s
+2025-09-29 16:19:37 | Borja +5 (teacher voice) | Total: 60 | StandardScore: 110% | Speed: 0.18s
+2025-09-29 16:19:40 | Belleza +5 (teacher voice) | Total: 80 | StandardScore: 85% | Speed: 0.18s
+2025-09-29 16:19:43 | Requiño +5 (teacher voice) | Total: 25 | StandardScore: 93% | Speed: 0.18s
+2025-09-29 16:19:49 | Cipriano +5 (teacher voice) | Total: 62 | StandardScore: 96% | Speed: 0.22s
+2025-09-29 16:19:51 | Lagdan +5 (teacher voice) | Total: 65 | StandardScore: 110% | Speed: 0.16s
+2025-09-29 16:23:36 | Blanco, Jerard +5 (teacher voice) | Total: 120 | StandardScore: 110% | Speed: 0.22s
+2025-09-29 16:23:40 | Blanco, Jerard +5 (teacher voice) | Total: 125 | StandardScore: 110% | Speed: 0.24s
+2025-09-29 16:25:04 | Olid +5 (teacher voice) | Total: 50 | StandardScore: 85% | Speed: 0.24s
+2025-09-29 16:25:08 | Blanco, Jerard +5 (teacher voice) | Total: 130 | StandardScore: 102% | Speed: 0.21s
+2025-09-29 16:25:25 | Olid +5 (teacher voice) | Total: 55 | StandardScore: 85% | Speed: 0.30s
+2025-09-29 16:33:56 | Blanco, Jerard +5 (teacher voice) | Total: 135 | EnhancedScore: 66% | Speed: 0.24s
+2025-09-29 16:46:14 | Alba +5 (teacher voice) | Total: 80 | EnhancedScore: 97% | Speed: 0.13s
+2025-09-29 16:46:18 | Abellera +5 (teacher voice) | Total: 60 | EnhancedScore: 81% | Speed: 0.18s
+2025-09-29 16:46:22 | Alba +5 (teacher voice) | Total: 85 | EnhancedScore: 85% | Speed: 0.27s
+2025-09-29 16:46:30 | Olid +5 (teacher voice) | Total: 60 | EnhancedScore: 85% | Speed: 0.27s
+2025-09-29 16:46:33 | Requiño +5 (teacher voice) | Total: 30 | EnhancedScore: 87% | Speed: 0.18s
+2025-09-29 16:51:19 | Blanco, Keon +5 (teacher voice) | Total: 30 | EnhancedScore: 62% | Speed: 0.31s
+2025-09-29 16:51:41 | Alba +5 (teacher voice) | Total: 90 | EnhancedScore: 97% | Speed: 0.18s
+2025-09-29 16:51:45 | Abellera +5 (teacher voice) | Total: 65 | EnhancedScore: 72% | Speed: 0.18s
+2025-09-29 16:51:49 | Bindoy +5 (teacher voice) | Total: 90 | EnhancedScore: 73% | Speed: 0.18s
+2025-09-29 17:10:27 | Bindoy +5 (teacher voice) | Total: 95 | EnhancedScore: 73% | Speed: 0.18s
+2025-09-29 17:10:31 | Cruz +5 (teacher voice) | Total: 120 | EnhancedScore: 101% | Speed: 0.13s
+2025-09-29 17:10:34 | Cipriano +5 (teacher voice) | Total: 67 | EnhancedScore: 62% | Speed: 0.21s
+2025-09-29 17:10:42 | Espiritu +5 (teacher voice) | Total: 35 | EnhancedScore: 95% | Speed: 0.18s
+2025-09-29 17:10:45 | Fatalla +5 (teacher voice) | Total: 115 | EnhancedScore: 87% | Speed: 0.18s
+
+========== SESSION END: 2025-09-29 17:10:57 ==========
+Total Attempts: 13
+Successful Matches: 5
+Accuracy: 38.5%
+Average Speed: 0.20s
+Speaker Recognition: Active
+2025-09-29 17:14:56 | Alba +5 (teacher voice) | Total: 95 | EnhancedScore: 71% | Speed: 0.13s
+2025-09-29 17:15:00 | Bindoy +5 (teacher voice) | Total: 100 | EnhancedScore: 73% | Speed: 0.15s
+2025-09-29 17:15:05 | Pacheco +5 (teacher voice) | Total: 20 | EnhancedScore: 61% | Speed: 0.18s
+
+========== SESSION END: 2025-09-29 17:15:07 ==========
+Total Attempts: 5
+Successful Matches: 3
+Accuracy: 60.0%
+Average Speed: 0.18s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-29 17:19:43 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-29 17:26:14 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+
+========== SESSION END: 2025-09-29 17:29:51 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Active
+2025-10-05 12:50:27 | Alba +5 | Total: 100 | StandardScore: 75% | Speed: 0.22s
+2025-10-05 12:50:35 | Belleza +5 | Total: 85 | StandardScore: 90% | Speed: 0.23s
+2025-10-05 12:50:40 | Silvestre +5 | Total: 185 | StandardScore: 68% | Speed: 0.30s
+2025-10-05 12:51:11 | Bindoy +5 | Total: 105 | StandardScore: 72% | Speed: 0.40s
+2025-10-05 12:51:27 | Fatalla +5 | Total: 120 | StandardScore: 68% | Speed: 0.29s
+2025-10-05 12:51:46 | Fatalla +5 | Total: 125 | StandardScore: 90% | Speed: 0.26s
+2025-10-05 12:53:10 | Jonsay +5 | Total: 65 | StandardScore: 90% | Speed: 0.19s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-10-05 12:53:29
+Total Attempts: 21
+Successful Matches: 7
+Accuracy: 33.3%
+Average Recognition Speed: 0.22s
+
+Recent recognitions (most recent first):
+2025-10-05 12:53:10 | Jonsay +5 | Total: 65 | StandardScore: 90% | Speed: 0.19s
+2025-10-05 12:51:46 | Fatalla +5 | Total: 125 | StandardScore: 90% | Speed: 0.26s
+2025-10-05 12:51:27 | Fatalla +5 | Total: 120 | StandardScore: 68% | Speed: 0.29s
+2025-10-05 12:51:11 | Bindoy +5 | Total: 105 | StandardScore: 72% | Speed: 0.40s
+2025-10-05 12:50:40 | Silvestre +5 | Total: 185 | StandardScore: 68% | Speed: 0.30s
+2025-10-05 12:50:35 | Belleza +5 | Total: 85 | StandardScore: 90% | Speed: 0.23s
+2025-10-05 12:50:27 | Alba +5 | Total: 100 | StandardScore: 75% | Speed: 0.22s
+=====================================
+
+
+========== SESSION SUMMARY ==========
+Session End: 2025-10-12 14:50:43
+Total Attempts: 5
+Successful Matches: 0
+Accuracy: 0.0%
+Average Recognition Speed: 0.30s
+=====================================
+
+2025-10-12 14:51:40 | Belleza +5 | Total: 90 | EnhancedScore: 90% | Speed: 0.30s
+2025-10-12 14:51:44 | Silvestre +5 | Total: 190 | EnhancedScore: 68% | Speed: 0.22s
+2025-10-12 14:51:48 | Silvestre +5 | Total: 195 | EnhancedScore: 68% | Speed: 0.27s
+2025-10-12 14:51:52 | Silvestre +5 | Total: 200 | EnhancedScore: 68% | Speed: 0.41s
+2025-10-12 14:52:13 | Cipriano +5 | Total: 72 | EnhancedScore: 65% | Speed: 0.34s
+2025-10-12 14:52:30 | Dasco +5 | Total: 30 | EnhancedScore: 80% | Speed: 0.30s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-10-12 14:52:53
+Total Attempts: 19
+Successful Matches: 6
+Accuracy: 31.6%
+Average Recognition Speed: 0.30s
+
+Recent recognitions (most recent first):
+2025-10-12 14:52:30 | Dasco +5 | Total: 30 | EnhancedScore: 80% | Speed: 0.30s
+2025-10-12 14:52:13 | Cipriano +5 | Total: 72 | EnhancedScore: 65% | Speed: 0.34s
+2025-10-12 14:51:52 | Silvestre +5 | Total: 200 | EnhancedScore: 68% | Speed: 0.41s
+2025-10-12 14:51:48 | Silvestre +5 | Total: 195 | EnhancedScore: 68% | Speed: 0.27s
+2025-10-12 14:51:44 | Silvestre +5 | Total: 190 | EnhancedScore: 68% | Speed: 0.22s
+2025-10-12 14:51:40 | Belleza +5 | Total: 90 | EnhancedScore: 90% | Speed: 0.30s
+=====================================
+
+
+============================================================
+Timestamp: 2025-10-12 14:59:21
+Recognized Text: loose five
+Matched Name: Silvestre
+Accuracy: 75.00%
+Processing Speed: 0.06s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 14:59:28
+Recognized Text: cruz five
+Matched Name: Cruz
+Accuracy: 100.00%
+Processing Speed: 0.03s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 14:59:34
+Recognized Text: dinala cruz five
+Matched Name: Cruz
+Accuracy: 100.00%
+Processing Speed: 0.02s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 14:59:41
+Recognized Text: peña niya five
+Matched Name: Peña
+Accuracy: 100.00%
+Processing Speed: 0.08s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 14:59:49
+Recognized Text: been doy five
+Matched Name: Bindoy
+Accuracy: 100.00%
+Processing Speed: 0.06s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 14:59:55
+Recognized Text: guevarra five
+Matched Name: Guevarra
+Accuracy: 100.00%
+Processing Speed: 0.05s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:00:01
+Recognized Text: tore five
+Matched Name: Silvestre
+Accuracy: 85.71%
+Processing Speed: 0.02s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:00:08
+Recognized Text: to address five
+Matched Name: Silvestre
+Accuracy: 75.00%
+Processing Speed: 0.02s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:00:28
+Recognized Text: so rel five
+Matched Name: Surell
+Accuracy: 100.00%
+Processing Speed: 0.03s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:01:24
+Recognized Text: abellera five
+Matched Name: Abellera
+Accuracy: 100.00%
+Processing Speed: 0.09s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:01:30
+Recognized Text: al- ba five
+Matched Name: Alba
+Accuracy: 80.00%
+Processing Speed: 0.08s
+============================================================
+
+============================================================
+Timestamp: 2025-10-12 15:01:42
+Recognized Text: well yes five
+Matched Name: Surell
+Accuracy: 85.71%
+Processing Speed: 0.02s
+============================================================
+2025-10-12 15:19:14 | Alba +5 | Total: 105 | EnhancedScore: 61% | Speed: 0.36s
+2025-10-12 15:19:18 | Bindoy +5 | Total: 110 | EnhancedScore: 73% | Speed: 0.28s
+2025-10-12 15:19:22 | Silvestre +5 | Total: 205 | EnhancedScore: 68% | Speed: 0.32s
+2025-10-12 15:19:31 | Dela Peña +5 | Total: 35 | EnhancedScore: 96% | Speed: 0.38s
+2025-10-12 15:19:35 | Peña +5 | Total: 85 | EnhancedScore: 86% | Speed: 0.21s
+2025-10-12 15:21:24 | Garcia +5 | Total: 45 | EnhancedScore: 93% | Speed: 0.23s
+2025-10-12 15:21:51 | Deris +5 | Total: 35 | EnhancedScore: 65% | Speed: 0.28s
+2025-10-12 15:22:13 | Torres +4 | Total: 24 | EnhancedScore: 90% | Speed: 0.22s
+2025-10-12 15:22:20 | Franco +5 | Total: 85 | EnhancedScore: 95% | Speed: 0.18s
+2025-10-12 15:22:27 | Silvestre +5 | Total: 210 | EnhancedScore: 68% | Speed: 0.15s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-10-12 15:22:31
+Total Attempts: 25
+Successful Matches: 10
+Accuracy: 40.0%
+Average Recognition Speed: 0.25s
+
+Recent recognitions (most recent first):
+2025-10-12 15:22:27 | Silvestre +5 | Total: 210 | EnhancedScore: 68% | Speed: 0.15s
+2025-10-12 15:22:20 | Franco +5 | Total: 85 | EnhancedScore: 95% | Speed: 0.18s
+2025-10-12 15:22:13 | Torres +4 | Total: 24 | EnhancedScore: 90% | Speed: 0.22s
+2025-10-12 15:21:51 | Deris +5 | Total: 35 | EnhancedScore: 65% | Speed: 0.28s
+2025-10-12 15:21:24 | Garcia +5 | Total: 45 | EnhancedScore: 93% | Speed: 0.23s
+2025-10-12 15:19:35 | Peña +5 | Total: 85 | EnhancedScore: 86% | Speed: 0.21s
+2025-10-12 15:19:31 | Dela Peña +5 | Total: 35 | EnhancedScore: 96% | Speed: 0.38s
+2025-10-12 15:19:22 | Silvestre +5 | Total: 205 | EnhancedScore: 68% | Speed: 0.32s
+2025-10-12 15:19:18 | Bindoy +5 | Total: 110 | EnhancedScore: 73% | Speed: 0.28s
+2025-10-12 15:19:14 | Alba +5 | Total: 105 | EnhancedScore: 61% | Speed: 0.36s
+=====================================
+
+2025-10-12 16:03:52 | Abellera +5 | Total: 70 | fuzzy_matchScore: 88% | Conf: 97% | Speed: 0.26s
+2025-10-12 16:03:56 | Alba +5 | Total: 110 | fuzzy_matchScore: 94% | Conf: 64% | Speed: 0.17s
+2025-10-12 16:04:00 | Alba +5 | Total: 115 | fuzzy_matchScore: 94% | Conf: 74% | Speed: 0.18s
+2025-10-12 16:04:04 | Fatalla +5 | Total: 130 | fuzzy_matchScore: 67% | Conf: 67% | Speed: 0.24s
+2025-10-12 16:04:09 | Surell +5 | Total: 40 | fuzzy_matchScore: 86% | Conf: 74% | Speed: 0.23s
+2025-10-12 16:04:15 | Bindoy +5 | Total: 115 | fuzzy_matchScore: 100% | Conf: 75% | Speed: 0.24s
+2025-10-12 16:04:20 | Blanco, Jerard +5 | Total: 140 | fuzzy_matchScore: 88% | Conf: 89% | Speed: 0.31s
+2025-10-12 16:04:25 | Alba +5 | Total: 120 | fuzzy_matchScore: 75% | Conf: 89% | Speed: 0.31s
+2025-10-12 16:04:30 | Alba +5 | Total: 125 | fuzzy_matchScore: 86% | Conf: 82% | Speed: 0.31s
+2025-10-12 16:04:35 | Blanco, Jerard +5 | Total: 145 | fuzzy_matchScore: 88% | Conf: 89% | Speed: 0.39s
+2025-10-12 16:04:40 | Franco +4 | Total: 89 | fuzzy_matchScore: 88% | Conf: 85% | Speed: 0.23s
+2025-10-12 16:04:44 | Borja +5 | Total: 65 | fuzzy_matchScore: 94% | Conf: 63% | Speed: 0.26s
+2025-10-12 16:04:51 | Samonte +5 | Total: 65 | fuzzy_matchScore: 80% | Conf: 78% | Speed: 0.23s
+2025-10-12 16:04:55 | Cipriano +5 | Total: 77 | pronunciation_trainingScore: 97% | Conf: 84% | Speed: 0.25s
+2025-10-12 16:05:03 | Dasco +5 | Total: 35 | fuzzy_matchScore: 88% | Conf: 75% | Speed: 0.24s
+2025-10-12 16:05:11 | Cruz +5 | Total: 125 | pronunciation_trainingScore: 84% | Conf: 67% | Speed: 0.34s
+
+========== SESSION SUMMARY ==========
+Session End: 2025-10-12 16:05:21
+Total Attempts: 19
+Successful Matches: 16
+Accuracy: 84.2%
+Average Recognition Speed: 0.25s
+
+Recent recognitions (most recent first):
+2025-10-12 16:05:11 | Cruz +5 | Total: 125 | pronunciation_trainingScore: 84% | Conf: 67% | Speed: 0.34s
+2025-10-12 16:05:03 | Dasco +5 | Total: 35 | fuzzy_matchScore: 88% | Conf: 75% | Speed: 0.24s
+2025-10-12 16:04:55 | Cipriano +5 | Total: 77 | pronunciation_trainingScore: 97% | Conf: 84% | Speed: 0.25s
+2025-10-12 16:04:51 | Samonte +5 | Total: 65 | fuzzy_matchScore: 80% | Conf: 78% | Speed: 0.23s
+2025-10-12 16:04:44 | Borja +5 | Total: 65 | fuzzy_matchScore: 94% | Conf: 63% | Speed: 0.26s
+2025-10-12 16:04:40 | Franco +4 | Total: 89 | fuzzy_matchScore: 88% | Conf: 85% | Speed: 0.23s
+2025-10-12 16:04:35 | Blanco, Jerard +5 | Total: 145 | fuzzy_matchScore: 88% | Conf: 89% | Speed: 0.39s
+2025-10-12 16:04:30 | Alba +5 | Total: 125 | fuzzy_matchScore: 86% | Conf: 82% | Speed: 0.31s
+2025-10-12 16:04:25 | Alba +5 | Total: 120 | fuzzy_matchScore: 75% | Conf: 89% | Speed: 0.31s
+2025-10-12 16:04:20 | Blanco, Jerard +5 | Total: 140 | fuzzy_matchScore: 88% | Conf: 89% | Speed: 0.31s
+2025-10-12 16:04:15 | Bindoy +5 | Total: 115 | fuzzy_matchScore: 100% | Conf: 75% | Speed: 0.24s
+2025-10-12 16:04:09 | Surell +5 | Total: 40 | fuzzy_matchScore: 86% | Conf: 74% | Speed: 0.23s
+2025-10-12 16:04:04 | Fatalla +5 | Total: 130 | fuzzy_matchScore: 67% | Conf: 67% | Speed: 0.24s
+2025-10-12 16:04:00 | Alba +5 | Total: 115 | fuzzy_matchScore: 94% | Conf: 74% | Speed: 0.18s
+2025-10-12 16:03:56 | Alba +5 | Total: 110 | fuzzy_matchScore: 94% | Conf: 64% | Speed: 0.17s
+2025-10-12 16:03:52 | Abellera +5 | Total: 70 | fuzzy_matchScore: 88% | Conf: 97% | Speed: 0.26s
+=====================================
+
+2025-12-03 15:19:10 | Belleza +5 (manual) | Total: 95
+2025-12-03 15:19:13 | Belleza +5 (manual) | Total: 100
+2025-12-03 15:19:14 | Belleza +5 (manual) | Total: 105
+2025-12-03 15:19:15 | Belleza +5 (manual) | Total: 110
+2025-12-03 15:19:17 | Belleza +2 (manual) | Total: 112
+2025-12-03 15:19:24 | Belleza +5 (manual) | Total: 117
+
+========== SESSION END: 2025-12-03 15:22:20 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-12-03 15:46:22 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-12-03 15:46:23 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
