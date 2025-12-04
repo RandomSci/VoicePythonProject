@@ -1505,3 +1505,17 @@ Successful Matches: 0
 Accuracy: 0.0%
 Average Speed: 1.50s
 Speaker Recognition: Inactive
+
+========== SESSION END: 2025-12-05 00:26:41 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
+
+========== SESSION END: 2025-12-05 00:26:41 ==========
+Total Attempts: 0
+Successful Matches: 0
+Accuracy: 0.0%
+Average Speed: 0.00s
+Speaker Recognition: Inactive
