@@ -26,6 +26,7 @@ if HF_TOKEN:
     login(token=HF_TOKEN)
 else:
     print("⚠️ HF_TOKEN not set. Some models may not load.")
+    
 # Optional imports for pronunciation training
 try:
     import librosa
@@ -756,23 +757,20 @@ class SpeakerRecognizer:
             print("⚠️ Speaker diarization disabled - all voices will be processed")
     
     def setup_speaker_embedding_model(self):
-        """Initialize the speaker embedding model."""
+        """Initialize the speaker embedding model using SpeechBrain."""
         try:
             print("🔧 Setting up speaker embedding model...")
-            self.embedding_model = PretrainedSpeakerEmbedding(
-                "speechbrain/spkrec-ecapa-voxceleb",
-                device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            from speechbrain.inference.speaker import EncoderClassifier
+            
+            self.embedding_model = EncoderClassifier.from_hparams(
+                source="speechbrain/spkrec-ecapa-voxceleb",
+                savedir="pretrained_models/spkrec-ecapa-voxceleb",
+                run_opts={"device": "cpu"}
             )
-            print("✅ Speaker embedding model ready")
+            print("✅ SpeechBrain speaker embedding model loaded successfully")
         except Exception as e:
             print(f"❌ Failed to setup embedding model: {e}")
-            try:
-                from pyannote.audio import Model
-                self.embedding_model = Model.from_pretrained("pyannote/embedding")
-                print("✅ Alternative embedding model loaded")
-            except Exception as e2:
-                print(f"❌ Alternative model also failed: {e2}")
-                self.embedding_model = None
+            self.embedding_model = None
     
     def load_or_train_teacher_voice(self):
         """Load existing teacher voice model or create new one."""
@@ -839,7 +837,7 @@ class SpeakerRecognizer:
             return False
     
     def extract_speaker_embedding(self, audio_path):
-        """Extract speaker embedding from audio file."""
+        """Extract speaker embedding from audio file using SpeechBrain."""
         try:
             if not self.embedding_model or not os.path.exists(audio_path):
                 return None
@@ -852,9 +850,6 @@ class SpeakerRecognizer:
                 print("⚠️ Audio too short")
                 return None
             
-            if duration > 30:
-                waveform = waveform[:, :int(30 * sample_rate)]
-            
             # Resample if necessary
             if sample_rate != SAMPLE_RATE:
                 resampler = torchaudio.transforms.Resample(sample_rate, SAMPLE_RATE)
@@ -864,53 +859,11 @@ class SpeakerRecognizer:
             if waveform.shape[0] > 1:
                 waveform = torch.mean(waveform, dim=0, keepdim=True)
             
-            # Extract embedding based on model type
-            if hasattr(self.embedding_model, '__call__'):
-                # Speechbrain model
-                if len(waveform.shape) == 1:
-                    waveform_for_model = waveform.unsqueeze(0).unsqueeze(0)
-                elif len(waveform.shape) == 2:
-                    waveform_for_model = waveform.unsqueeze(0)
-                else:
-                    waveform_for_model = waveform
-                
-                embedding = self.embedding_model(waveform_for_model)
-                if torch.is_tensor(embedding):
-                    embedding = embedding.detach().cpu().numpy().flatten()
-            else:
-                # Pyannote model
-                temp_file = tempfile.NamedTemporaryFile(suffix='.wav', delete=False)
-                try:
-                    torchaudio.save(temp_file.name, waveform, SAMPLE_RATE)
-                    embedding = self.embedding_model(temp_file.name)
-                    
-                    if hasattr(embedding, 'data'):
-                        embedding = embedding.data
-                    if torch.is_tensor(embedding):
-                        embedding = embedding.detach().cpu().numpy()
-                    elif not isinstance(embedding, np.ndarray):
-                        embedding = np.array(embedding)
-                    
-                    if len(embedding.shape) > 1:
-                        embedding = np.mean(embedding, axis=0)
-                        
-                finally:
-                    try:
-                        os.unlink(temp_file.name)
-                    except:
-                        pass
-            
-            # Ensure proper format
-            if hasattr(embedding, 'shape') and len(embedding.shape) > 1:
-                embedding = embedding.flatten()
-            elif not isinstance(embedding, np.ndarray):
-                embedding = np.array(embedding).flatten()
-            
-            if embedding is None or len(embedding) == 0:
-                return None
+            # Extract embedding using SpeechBrain
+            embedding = self.embedding_model.encode_batch(waveform)
+            embedding = embedding.squeeze().cpu().numpy()
             
             # Normalize
-            embedding = embedding.astype(np.float32)
             norm = np.linalg.norm(embedding)
             if norm > 0:
                 embedding = embedding / norm
@@ -919,6 +872,7 @@ class SpeakerRecognizer:
             
         except Exception as e:
             print(f"❌ Error extracting speaker embedding: {e}")
+            traceback.print_exc()
             return None
     
     def save_teacher_voice_model(self):

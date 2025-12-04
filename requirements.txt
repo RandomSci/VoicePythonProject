@@ -13,3 +13,4 @@ rapidfuzz
 openpyxl
 pyinstaller
 pyannote.audio
+huggingface-hub
