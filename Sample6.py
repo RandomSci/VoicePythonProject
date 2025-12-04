@@ -768,8 +768,13 @@ class SpeakerRecognizer:
                 run_opts={"device": "cpu"}
             )
             print("✅ SpeechBrain speaker embedding model loaded successfully")
+        except ImportError as e:
+            print(f"❌ Failed to import SpeechBrain: {e}")
+            print("   Install with: pip install speechbrain")
+            self.embedding_model = None
         except Exception as e:
             print(f"❌ Failed to setup embedding model: {e}")
+            traceback.print_exc() 
             self.embedding_model = None
     
     def load_or_train_teacher_voice(self):
